@@ -6,10 +6,29 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Table of Contents
 
-## Tools
+- [Awesome LLM Security](#awesome-llm-security-)
+  - [Papers](#papers)
+  - [Tools](#tools)
+  - [Articles](#articles)
+  - [Other Awesome Projects](#other-awesome-projects)
+  - [Other Useful Resources](#other-useful-resources)
 
 ## Papers
 
-## Blogs
+- [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/pdf/2302.12173.pdf)
 
-## Projects
+## Tools
+
+- [Rebuff](https://github.com/protectai/rebuff): a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
+- [Garak](https://github.com/leondz/garak/): a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
+- [LLMFuzzer](https://github.com/mnns/LLMFuzzer): a fuzzing framework for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?style=social)
+
+## Articles
+
+- [Hacking Auto-GPT and escaping its docker container](https://positive.security/blog/auto-gpt-rce)
+- [Prompt Injection Cheat Sheet: How To Manipulate AI Language Models](https://blog.seclify.com/prompt-injection-cheat-sheet/)
+
+## Other Awesome Projects
+
+## Other Useful Resources
+
