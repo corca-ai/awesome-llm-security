@@ -16,6 +16,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 ## Papers
 
 - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/pdf/2302.12173.pdf)
+- [Visual Adversarial Examples Jailbreak Large Language Models](https://arxiv.org/pdf/2306.13213.pdf)
 
 ## Tools
 
@@ -27,8 +28,17 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 - [Hacking Auto-GPT and escaping its docker container](https://positive.security/blog/auto-gpt-rce)
 - [Prompt Injection Cheat Sheet: How To Manipulate AI Language Models](https://blog.seclify.com/prompt-injection-cheat-sheet/)
+- [Indirect Prompt Injection Threats](https://greshake.github.io/)
+- [Prompt injection: What’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
+- [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 ## Other Awesome Projects
 
+- [Gandalf](https://gandalf.lakera.ai/): a prompt injection wargame
+- [LangChain vulnerable to code injection - CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
+- [Jailbreak Chat](https://www.jailbreakchat.com/)
+- [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial)
+
 ## Other Useful Resources
 
+- [@llm_sec](https://twitter.com/llm_sec)
