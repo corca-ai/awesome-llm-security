@@ -31,6 +31,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Indirect Prompt Injection Threats](https://greshake.github.io/)
 - [Prompt injection: What’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+- [PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 
 ## Other Awesome Projects
 
