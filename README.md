@@ -44,3 +44,4 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 ## Other Useful Resources
 
 - [@llm_sec](https://twitter.com/llm_sec)
+- wunderwuzzi's [blog](https://embracethered.com/blog/index.html)
