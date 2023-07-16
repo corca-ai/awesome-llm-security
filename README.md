@@ -17,6 +17,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/pdf/2302.12173.pdf)
 - [Visual Adversarial Examples Jailbreak Large Language Models](https://arxiv.org/pdf/2306.13213.pdf)
+- [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/pdf/2307.02483.pdf)
+- [Are aligned neural networks adversarially aligned?](https://arxiv.org/pdf/2306.15447.pdf)
 
 ## Tools
 
@@ -44,4 +46,5 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 ## Other Useful Resources
 
 - [@llm_sec](https://twitter.com/llm_sec)
-- wunderwuzzi's [blog](https://embracethered.com/blog/index.html)
+- Blog : [Embrace The Red](https://embracethered.com/blog/index.html)
+- Newsletter : [AI safety takes](https://newsletter.danielpaleka.com/)
