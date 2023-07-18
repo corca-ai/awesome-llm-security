@@ -42,6 +42,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LangChain vulnerable to code injection - CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
 - [Jailbreak Chat](https://www.jailbreakchat.com/)
 - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial)
+- [Epivolis](https://epivolis.com/): a prompt injection aware chatbot designed to mitigate adversarial efforts
 
 ## Other Useful Resources
 
