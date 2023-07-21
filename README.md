@@ -49,3 +49,4 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [@llm_sec](https://twitter.com/llm_sec)
 - Blog : [Embrace The Red](https://embracethered.com/blog/index.html)
 - Newsletter : [AI safety takes](https://newsletter.danielpaleka.com/)
+- Newsletter & Blog: [Hackstery](https://hackstery.com)
