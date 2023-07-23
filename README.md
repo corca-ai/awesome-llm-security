@@ -22,6 +22,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models](https://arxiv.org/pdf/2307.08487.pdf)
 - [(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs](https://arxiv.org/pdf/2307.10490.pdf)
 - [Prompts Should not be Seen as Secrets: Systematically Measuring Prompt Extraction Attack Success](https://arxiv.org/pdf/2307.06865.pdf)
+- [BITE: Textual Backdoor Attacks with Iterative Trigger Injection](https://aclanthology.org/2023.acl-long.725.pdf)
 
 ## Tools
 
