@@ -59,3 +59,11 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - Blog : [Embrace The Red](https://embracethered.com/blog/index.html)
 - Newsletter : [AI safety takes](https://newsletter.danielpaleka.com/)
 - Newsletter & Blog: [Hackstery](https://hackstery.com)
+
+<a href="https://star-history.com/#corca-ai/awesome-llm-security&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=corca-ai/awesome-llm-security&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=corca-ai/awesome-llm-security&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=corca-ai/awesome-llm-security&type=Date" />
+  </picture>
+</a>
