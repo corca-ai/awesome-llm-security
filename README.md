@@ -26,6 +26,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Multi-step Jailbreaking Privacy Attacks on ChatGPT](https://arxiv.org/pdf/2304.05197.pdf)
 - [Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models](https://arxiv.org/pdf/2305.01219.pdf)
 - [LLM Censorship: A Machine Learning Challenge or a Computer Security Problem?](https://arxiv.org/pdf/2307.10719.pdf)
+- [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)
+- [Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models](https://arxiv.org/pdf/2307.14539.pdf)
 
 ## Tools
 
