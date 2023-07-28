@@ -57,9 +57,10 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Other Useful Resources
 
-- [@llm_sec](https://twitter.com/llm_sec)
-- Blog : [Embrace The Red](https://embracethered.com/blog/index.html)
-- Newsletter : [AI safety takes](https://newsletter.danielpaleka.com/)
+- Twitter: [@llm_sec](https://twitter.com/llm_sec)
+- Blog: [Embrace The Red](https://embracethered.com/blog/index.html)
+- Blog: [Kai's Blog](https://kai-greshake.de/)
+- Newsletter: [AI safety takes](https://newsletter.danielpaleka.com/)
 - Newsletter & Blog: [Hackstery](https://hackstery.com)
 
 <a href="https://star-history.com/#corca-ai/awesome-llm-security&Date">
