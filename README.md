@@ -28,6 +28,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Censorship: A Machine Learning Challenge or a Computer Security Problem?](https://arxiv.org/pdf/2307.10719.pdf)
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)
 - [Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models](https://arxiv.org/pdf/2307.14539.pdf)
+- [Virtual Prompt Injection for Instruction-Tuned Large Language Models](https://arxiv.org/pdf/2307.16888.pdf)
 
 ## Tools
 
