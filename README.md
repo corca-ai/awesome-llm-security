@@ -55,6 +55,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial)
 - [Epivolis](https://epivolis.com/): a prompt injection aware chatbot designed to mitigate adversarial efforts
 - [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): the world's top security competition
+- [PromptBounty.io](https://sites.google.com/view/promptbounty/)
 
 ## Other Useful Resources
 
