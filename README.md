@@ -29,6 +29,9 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)
 - [Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models](https://arxiv.org/pdf/2307.14539.pdf)
 - [Virtual Prompt Injection for Instruction-Tuned Large Language Models](https://arxiv.org/pdf/2307.16888.pdf)
+- [Jailbreaking chatgpt via prompt engineering: An empirical study](https://arxiv.org/pdf/2305.13860.pdf)
+- [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/pdf/2306.05499.pdf)
+- [Jailbreaker: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/pdf/2307.08715.pdf)
 
 ## Tools
 
