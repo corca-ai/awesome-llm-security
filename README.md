@@ -32,6 +32,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Jailbreaking chatgpt via prompt engineering: An empirical study](https://arxiv.org/pdf/2305.13860.pdf)
 - [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/pdf/2306.05499.pdf)
 - [Jailbreaker: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/pdf/2307.08715.pdf)
+- [GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher](https://arxiv.org/pdf/2308.06463.pdf)
+- [LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked](https://arxiv.org/pdf/2308.07308.pdf)
 
 ## Tools
 
