@@ -34,6 +34,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Jailbreaker: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/pdf/2307.08715.pdf)
 - [GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher](https://arxiv.org/pdf/2308.06463.pdf)
 - [LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked](https://arxiv.org/pdf/2308.07308.pdf)
+- [Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities](https://arxiv.org/pdf/2308.12833.pdf)
 
 ## Tools
 
