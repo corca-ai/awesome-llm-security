@@ -35,6 +35,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher](https://arxiv.org/pdf/2308.06463.pdf)
 - [LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked](https://arxiv.org/pdf/2308.07308.pdf)
 - [Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities](https://arxiv.org/pdf/2308.12833.pdf)
+- [Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs](https://arxiv.org/pdf/2308.13387.pdf)
 
 ## Tools
 
@@ -69,6 +70,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 ## Other Useful Resources
 
 - Twitter: [@llm_sec](https://twitter.com/llm_sec)
+- Blog: [LLM Security](https://llmsecurity.net/) authored by [@llm_sec](https://twitter.com/llm_sec)
 - Blog: [Embrace The Red](https://embracethered.com/blog/index.html)
 - Blog: [Kai's Blog](https://kai-greshake.de/)
 - Newsletter: [AI safety takes](https://newsletter.danielpaleka.com/)
