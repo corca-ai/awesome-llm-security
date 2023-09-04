@@ -37,6 +37,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities](https://arxiv.org/pdf/2308.12833.pdf)
 - [Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs](https://arxiv.org/pdf/2308.13387.pdf)
 - [Detecting Language Model Attacks with Perplexity](https://arxiv.org/pdf/2308.14132.pdf)
+- [Baseline Defenses for Adversarial Attacks Against Aligned Language Models](https://arxiv.org/pdf/2309.00614.pdf)
+- [Image Hijacking: Adversarial Images can Control Generative Models at Runtime](https://arxiv.org/pdf/2309.00236.pdf)
 
 ## Tools
 
