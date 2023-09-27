@@ -41,6 +41,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Image Hijacking: Adversarial Images can Control Generative Models at Runtime](https://arxiv.org/pdf/2309.00236.pdf)
 - [Open Sesame! Universal Black Box Jailbreaking of Large Language Models](https://arxiv.org/pdf/2309.01446.pdf)
 - [LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins](https://arxiv.org/pdf/2309.10254.pdf)
+- [Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM](https://arxiv.org/pdf/2309.14348.pdf)
 
 ## Tools
 
