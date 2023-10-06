@@ -42,6 +42,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Open Sesame! Universal Black Box Jailbreaking of Large Language Models](https://arxiv.org/pdf/2309.01446.pdf)
 - [LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins](https://arxiv.org/pdf/2309.10254.pdf)
 - [Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM](https://arxiv.org/pdf/2309.14348.pdf)
+- [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://arxiv.org/pdf/2310.03693.pdf)
 
 ## Tools
 
