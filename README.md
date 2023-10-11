@@ -44,7 +44,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM](https://arxiv.org/pdf/2309.14348.pdf)
 - [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://arxiv.org/pdf/2310.03693.pdf)
 - [AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/pdf/2310.04451.pdf)
-
+- [Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations](https://arxiv.org/pdf/2310.06387.pdf)
+  
 ## Tools
 
 - [Rebuff](https://github.com/protectai/rebuff): a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
