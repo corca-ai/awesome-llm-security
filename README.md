@@ -15,6 +15,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Papers
 
+- [Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators](https://arxiv.org/abs/2310.07289)
 - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/pdf/2302.12173.pdf)
 - [Visual Adversarial Examples Jailbreak Large Language Models](https://arxiv.org/pdf/2306.13213.pdf)
 - [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/pdf/2307.02483.pdf)
@@ -69,6 +70,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Other Awesome Projects
 
+- [CONNER](https://github.com/ChanLiang/CONNER): an automatic framework for evaluating LLMs' knowledge capability.
 - [Gandalf](https://gandalf.lakera.ai/): a prompt injection wargame
 - [LangChain vulnerable to code injection - CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
 - [Jailbreak Chat](https://www.jailbreakchat.com/)
