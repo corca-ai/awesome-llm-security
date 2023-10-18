@@ -46,6 +46,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/pdf/2310.04451.pdf)
 - [Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations](https://arxiv.org/pdf/2310.06387.pdf)
 - [Multilingual Jailbreak Challenges in Large Language Models](https://arxiv.org/pdf/2310.06474.pdf)
+- [Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks](https://arxiv.org/pdf/2310.10844.pdf)
   
 ## Tools
 
