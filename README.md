@@ -15,6 +15,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Papers
 
+- [DeepInception: Hypnotize Large Language Model to Be Jailbreaker](https://arxiv.org/pdf/2311.03191.pdf)
 - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/pdf/2302.12173.pdf)
 - [Visual Adversarial Examples Jailbreak Large Language Models](https://arxiv.org/pdf/2306.13213.pdf)
 - [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/pdf/2307.02483.pdf)
