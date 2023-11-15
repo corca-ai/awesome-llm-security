@@ -49,6 +49,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks](https://arxiv.org/pdf/2310.10844.pdf)
 - [Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation](https://arxiv.org/pdf/2311.03348.pdf)
 - [DeepInception: Hypnotize Large Language Model to Be Jailbreaker](https://arxiv.org/pdf/2311.03191.pdf)
+- [A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily](https://arxiv.org/pdf/2311.08268.pdf)
   
 ## Tools
 
