@@ -38,6 +38,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs](https://arxiv.org/pdf/2308.13387.pdf)
 - [Detecting Language Model Attacks with Perplexity](https://arxiv.org/pdf/2308.14132.pdf)
 - [Baseline Defenses for Adversarial Attacks Against Aligned Language Models](https://arxiv.org/pdf/2309.00614.pdf)
+- [Detecting Language Model Attacks with Perplexity](https://arxiv.org/abs/2308.14132)
 - [Image Hijacking: Adversarial Images can Control Generative Models at Runtime](https://arxiv.org/pdf/2309.00236.pdf)
 - [Open Sesame! Universal Black Box Jailbreaking of Large Language Models](https://arxiv.org/pdf/2309.01446.pdf)
 - [LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins](https://arxiv.org/pdf/2309.10254.pdf)
