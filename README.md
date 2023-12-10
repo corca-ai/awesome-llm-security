@@ -52,7 +52,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily](https://arxiv.org/pdf/2311.08268.pdf)
 - [AutoDAN: Automatic and Interpretable Adversarial Attacks on Large Language Models](https://arxiv.org/pdf/2310.15140.pdf)
 - [Language Model Inversion](https://arxiv.org/pdf/2311.13647.pdf)
-  
+
 ## Tools
 
 - [Rebuff](https://github.com/protectai/rebuff): a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
@@ -73,6 +73,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Jailbreaking GPT-4's code interpreter](https://www.lesswrong.com/posts/KSroBnxCHodGmPPJ8/jailbreaking-gpt-4-s-code-interpreter)
 - [Securing LLM Systems Against Prompt Injection](https://developer.nvidia.com/blog/securing-llm-systems-against-prompt-injection/)
 - [The AI Attack Surface Map v1.0](https://danielmiessler.com/p/the-ai-attack-surface-map-v1-0/)
+- [Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## Other Awesome Projects
 
