@@ -55,6 +55,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Tools
 
+- [Plexiglass](https://github.com/kortex-labs/plexiglass): a security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social) 
+- [PurpleLlama](https://github.com/facebookresearch/PurpleLlama): set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social) 
 - [Rebuff](https://github.com/protectai/rebuff): a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
 - [Garak](https://github.com/leondz/garak/): a LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer): a fuzzing framework for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?style=social)
