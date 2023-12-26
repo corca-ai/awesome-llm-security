@@ -52,6 +52,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily](https://arxiv.org/pdf/2311.08268.pdf)
 - [AutoDAN: Automatic and Interpretable Adversarial Attacks on Large Language Models](https://arxiv.org/pdf/2310.15140.pdf)
 - [Language Model Inversion](https://arxiv.org/pdf/2311.13647.pdf)
+- [Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models](https://arxiv.org/pdf/2312.14197.pdf)
 
 ## Tools
 
