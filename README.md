@@ -53,6 +53,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [AutoDAN: Automatic and Interpretable Adversarial Attacks on Large Language Models](https://arxiv.org/pdf/2310.15140.pdf)
 - [Language Model Inversion](https://arxiv.org/pdf/2311.13647.pdf)
 - [Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models](https://arxiv.org/pdf/2312.14197.pdf)
+- [Imperio: Language-Guided Backdoor Attacks for Arbitrary Model Control](https://arxiv.org/abs/2401.01085)
 
 ## Tools
 
