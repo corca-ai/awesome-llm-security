@@ -55,6 +55,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models](https://arxiv.org/pdf/2312.14197.pdf)
 - [An LLM can Fool Itself: A Prompt-Based Adversarial Attack](https://arxiv.org/pdf/2310.13345.pdf)
 - [Weak-to-Strong Jailbreaking on Large Language Models](https://arxiv.org/pdf/2401.17256.pdf)
+- [Security and Privacy Challenges of Large Language Models: A Survey](https://arxiv.org/pdf/2402.00888.pdf)
 
 ## Tools
 
