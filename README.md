@@ -57,6 +57,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Weak-to-Strong Jailbreaking on Large Language Models](https://arxiv.org/pdf/2401.17256.pdf)
 - [Security and Privacy Challenges of Large Language Models: A Survey](https://arxiv.org/pdf/2402.00888.pdf)
 - [GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts](https://arxiv.org/pdf/2309.10253.pdf)
+- [AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://arxiv.org/pdf/2403.04783.pdf)
+- [Breaking Down the Defenses: A Comparative Survey of Attacks on Large Language Models](https://arxiv.org/pdf/2403.04786.pdf)
 
 ## Tools
 
