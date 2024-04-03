@@ -59,6 +59,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts](https://arxiv.org/pdf/2309.10253.pdf)
 - [AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://arxiv.org/pdf/2403.04783.pdf)
 - [Breaking Down the Defenses: A Comparative Survey of Attacks on Large Language Models](https://arxiv.org/pdf/2403.04786.pdf)
+- [Many-shot Jailbreaking](https://www-cdn.anthropic.com/af5633c94ed2beb282f6a53c595eb437e8e7b630/Many_Shot_Jailbreaking__2024_04_02_0936.pdf)
 
 ## Tools
 
