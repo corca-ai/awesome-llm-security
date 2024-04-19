@@ -88,6 +88,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Guard](https://github.com/laiyer-ai/llm-guard): a security toolkit for LLM Interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 - [Vigil](https://github.com/deadbits/vigil-llm): a LLM prompt injection detection toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social)
 - [jailbreak-evaluation](https://github.com/controllability/jailbreak-evaluation): an easy-to-use Python package for language model jailbreak evaluation ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social)
+- [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz): the open-source tool to help you harden your GenAI applications ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social)
 
 ## Articles
 
