@@ -69,6 +69,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM", 2023-09, `random-mask-filter`, [[paper]](https://arxiv.org/pdf/2309.14348.pdf)
 - "Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models", 2023-12, [[paper]](https://arxiv.org/pdf/2312.14197.pdf) [[repo]](https://github.com/microsoft/BIPIA)
 - "AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks", 2024-03, [[paper]](https://arxiv.org/pdf/2403.04783.pdf) [[repo]](https://github.com/XHMY/AutoDefense)
+- "Protecting Your LLMs with Information Bottleneck", 2024-04, [[paper]](https://arxiv.org/pdf/2404.13968.pdf) [[repo]](https://github.com/zichuan-liu/IB4LLMs)
 
 ### Platform Security
 - "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins", 2023-09, [[paper]](https://arxiv.org/pdf/2309.10254.pdf) [[repo]](https://github.com/llm-platform-security/chatgpt-plugin-eval)
