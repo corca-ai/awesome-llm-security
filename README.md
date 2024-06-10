@@ -108,6 +108,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Other Awesome Projects
 
+- (0din GenAI Bug Bounty from Mozilla)(https://0din.ai): The 0Day Investigative Network rewards researchers for discovering model flaws, unlike other bounty programs which limit scope to software.
 - [Gandalf](https://gandalf.lakera.ai/): a prompt injection wargame
 - [LangChain vulnerable to code injection - CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
 - [Jailbreak Chat](https://www.jailbreakchat.com/)
