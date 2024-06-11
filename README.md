@@ -71,6 +71,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models", 2023-12, [[paper]](https://arxiv.org/pdf/2312.14197.pdf) [[repo]](https://github.com/microsoft/BIPIA)
 - "AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks", 2024-03, [[paper]](https://arxiv.org/pdf/2403.04783.pdf) [[repo]](https://github.com/XHMY/AutoDefense)
 - "PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition", 2024-05, ICML 24, [[paper]](https://arxiv.org/pdf/2405.07932) [[repo]](https://github.com/Ed-Zh/PARDEN)
+- “ Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs”, 2024-06, [[paper]]([https://arxiv.org/pdf/2405.07932](https://www.researchgate.net/publication/381283534_Adversarial_Tuning_Defending_Against_Jailbreak_Attacks_for_LLMs))
 
 ### Platform Security
 - "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins", 2023-09, [[paper]](https://arxiv.org/pdf/2309.10254.pdf) [[repo]](https://github.com/llm-platform-security/chatgpt-plugin-eval)
