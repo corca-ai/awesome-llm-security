@@ -81,6 +81,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks", 2023-10, ACL 24, [[paper]](https://arxiv.org/pdf/2310.10844.pdf)
 - "Security and Privacy Challenges of Large Language Models: A Survey", 2024-02, [[paper]](https://arxiv.org/pdf/2402.00888.pdf)
 - "Breaking Down the Defenses: A Comparative Survey of Attacks on Large Language Models", 2024-03, [[paper]](https://arxiv.org/pdf/2403.04786.pdf)
+- "Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)", 2024-07, [[paper]](https://arxiv.org/pdf/2407.14937)
 
 ## Tools
 
