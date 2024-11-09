@@ -110,13 +110,15 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [The AI Attack Surface Map v1.0](https://danielmiessler.com/p/the-ai-attack-surface-map-v1-0/)
 - [Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 - [How Anyone can Hack ChatGPT - GPT4o](https://medium.com/@deltaaruna/how-anyone-can-hack-chatgpt-aa7959684ef0)
+- [LLM Evaluation metrics, frmaework, and checklist](https://repello.ai/blog/llm-evaluation-metrics-frameworks-and-checklist)
+- [How RAG Poisoning Made Llama3 Racist!](https://repello.ai/blog/how-rag-poisoning-made-llama3-racist-1c5e390dd564)
 
 ## Other Awesome Projects
 
 - (0din GenAI Bug Bounty from Mozilla)(https://0din.ai): The 0Day Investigative Network is a bug bounty program focusing on flaws within GenAI models. Vulnerability classes include Prompt Injection, Training Data Poisoning, DoS, and more.
 - [Gandalf](https://gandalf.lakera.ai/): a prompt injection wargame
 - [LangChain vulnerable to code injection - CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
-- [Jailbreak Chat](https://www.jailbreakchat.com/)
+- [LLM Security startups](https://github.com/rushout09/llm-security-startups)
 - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial)
 - [Epivolis](https://epivolis.com/): a prompt injection aware chatbot designed to mitigate adversarial efforts
 - [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): the world's top security competition
