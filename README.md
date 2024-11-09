@@ -94,6 +94,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Vigil](https://github.com/deadbits/vigil-llm): a LLM prompt injection detection toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social)
 - [jailbreak-evaluation](https://github.com/controllability/jailbreak-evaluation): an easy-to-use Python package for language model jailbreak evaluation ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social)
 - [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz): the open-source tool to help you harden your GenAI applications ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social)
+- [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 
 ## Articles
 
@@ -130,6 +131,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - Blog: [Kai's Blog](https://kai-greshake.de/)
 - Newsletter: [AI safety takes](https://newsletter.danielpaleka.com/)
 - Newsletter & Blog: [Hackstery](https://hackstery.com)
+- 
 
 <a href="https://star-history.com/#corca-ai/awesome-llm-security&Date">
   <picture>
