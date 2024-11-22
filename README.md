@@ -95,6 +95,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models", 2024-03, [[paper]](https://arxiv.org/pdf/2404.01318)
 - "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [[paper]](https://arxiv.org/pdf/2406.13352) [[repo]](https://github.com/ethz-spylab/agentdojo) [[site]](https://agentdojo.spylab.ai/)
 - "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [[paper]](https://arxiv.org/abs/2410.09024)
+- "SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks", 2024-10, [[paper]](https://arxiv.org/abs/2410.03769) [[data]](https://huggingface.co/datasets/Tianhao0x01/SciSafeEval)
 
 ## Tools
 
