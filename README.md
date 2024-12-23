@@ -108,6 +108,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [jailbreak-evaluation](https://github.com/controllability/jailbreak-evaluation): an easy-to-use Python package for language model jailbreak evaluation ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social)
 - [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz): the open-source tool to help you harden your GenAI applications ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social)
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
+- [AgenticSecurity](https://github.com/msoedov/agentic_security): agentic LLM vulnerability scanner aggregator / AI red teaming kit: Nuclei for LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/agentic_security?style=social)
 
 ## Articles
 
