@@ -60,6 +60,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts", 2023-09, [[paper]](https://arxiv.org/pdf/2309.10253.pdf) [[repo]](https://github.com/sherdencooper/GPTFuzz) [[site]](https://github.com/sherdencooper/GPTFuzz)
 - "Many-shot Jailbreaking", 2024-04, [[paper]](https://www-cdn.anthropic.com/af5633c94ed2beb282f6a53c595eb437e8e7b630/Many_Shot_Jailbreaking__2024_04_02_0936.pdf)
 - "Rethinking How to Evaluate Language Model Jailbreak", 2024-04, [[paper]](https://arxiv.org/pdf/2404.06407.pdf) [[repo]](https://github.com/controllability/jailbreak-evaluation)
+- "FlipAttack: Jailbreak LLMs via Flipping", 2024-10, [[paper]](https://arxiv.org/pdf/2410.02832) [[repo]](https://github.com/yueliu1999/FlipAttack)
 
 ### Backdoor attack
 - "BITE: Textual Backdoor Attacks with Iterative Trigger Injection", 2022-05, ACL 23, `defense` [[paper]](https://arxiv.org/pdf/2205.12700.pdf)
