@@ -90,6 +90,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Security and Privacy Challenges of Large Language Models: A Survey", 2024-02, [[paper]](https://arxiv.org/pdf/2402.00888.pdf)
 - "Breaking Down the Defenses: A Comparative Survey of Attacks on Large Language Models", 2024-03, [[paper]](https://arxiv.org/pdf/2403.04786.pdf)
 - "Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)", 2024-07, [[paper]](https://arxiv.org/pdf/2407.14937)
+- "Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition", 2023-03, [[paper]](https://arxiv.org/pdf/2311.16119)
 
 ## Benchmark
 - "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models", 2024-03, [[paper]](https://arxiv.org/pdf/2404.01318)
@@ -110,6 +111,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz): the open-source tool to help you harden your GenAI applications ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social)
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
+- [HackaPrompt Playground](https://learnprompting.org/hackaprompt-playground): prompt hacking playground which was used in the award winning HackAPrompt competition.
 
 ## Articles
 
@@ -127,6 +129,10 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [How Anyone can Hack ChatGPT - GPT4o](https://medium.com/@deltaaruna/how-anyone-can-hack-chatgpt-aa7959684ef0)
 - [LLM Evaluation metrics, frmaework, and checklist](https://repello.ai/blog/llm-evaluation-metrics-frameworks-and-checklist)
 - [How RAG Poisoning Made Llama3 Racist!](https://repello.ai/blog/how-rag-poisoning-made-llama3-racist-1c5e390dd564)
+- [Prompt Injection vs. Jailbreaking: What’s the Difference?](https://learnprompting.org/blog/injection_jailbreaking)  
+- [Advanced Prompt Hacking](https://learnprompting.org/courses/advanced-prompt-hacking)  
+- [Jailbreaking](https://learnprompting.org/docs/prompt_hacking/jailbreaking)  
+- [Defensive Measures for Prompt Hacking](https://learnprompting.org/docs/prompt_hacking/defensive_measures/introduction)
 
 ## Other Awesome Projects
 
