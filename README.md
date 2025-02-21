@@ -5,7 +5,7 @@ A curation of awesome tools, documents and projects about LLM Security.
 Contributions are always welcome. Please read the [Contribution Guidelines](CONTRIBUTING.md) before contributing.
 
 > [!NOTE] 
-> ⚡ For efficient research navigation, we’re sharing PDFs via Moonlight AI PDF Viewer, which provides summaries alongside the original paper.
+> ⚡ For efficient research navigation, we’re sharing PDFs via [Moonlight](https://www.themoonlight.io/), which provides summaries alongside the original paper.
 
 ## Table of Contents
 
