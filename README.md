@@ -6,7 +6,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Table of Contents
 
-- [Awesome LLM Security](#awesome-llm-security-)
+- [Awesome LLM Security ](#awesome-llm-security-)
+  - [Table of Contents](#table-of-contents)
   - [Papers](#papers)
     - [White-box attack](#white-box-attack)
     - [Black-box attack](#black-box-attack)
@@ -15,7 +16,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
     - [Defense](#defense)
     - [Platform Security](#platform-security)
     - [Survey](#survey)
-    - [Benchmark](#benchmark)
+  - [Benchmark](#benchmark)
   - [Tools](#tools)
   - [Articles](#articles)
   - [Other Awesome Projects](#other-awesome-projects)
@@ -24,13 +25,13 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 ## Papers
 
 ### White-box attack
-- "Visual Adversarial Examples Jailbreak Large Language Models", 2023-06, AAAI(Oral) 24, `multi-modal`, [[paper]](https://arxiv.org/pdf/2306.13213.pdf) [[repo]](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models)
-- "Are aligned neural networks adversarially aligned?", 2023-06, NeurIPS(Poster) 23, `multi-modal`, [[paper]](https://arxiv.org/pdf/2306.15447.pdf)
-- "(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs", 2023-07, `multi-modal` [[paper]](https://arxiv.org/pdf/2307.10490.pdf)
-- "Universal and Transferable Adversarial Attacks on Aligned Language Models", 2023-07, `transfer`, [[paper]](https://arxiv.org/pdf/2307.15043.pdf) [[repo]](https://github.com/llm-attacks/llm-attacks) [[page]](https://llm-attacks.org/)
-- "Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models", 2023-07, `multi-modal`, [[paper]](https://arxiv.org/pdf/2307.14539.pdf)
-- "Image Hijacking: Adversarial Images can Control Generative Models at Runtime", 2023-09, `multi-modal`, [[paper]](https://arxiv.org/pdf/2309.00236.pdf) [[repo]](https://github.com/euanong/image-hijacks) [[site]](https://image-hijacks.github.io)
-- "Weak-to-Strong Jailbreaking on Large Language Models", 2024-04, `token-prob`, [[paper]](https://arxiv.org/pdf/2401.17256.pdf) [[repo]](https://github.com/XuandongZhao/weak-to-strong)
+- "Visual Adversarial Examples Jailbreak Large Language Models", 2023-06, AAAI(Oral) 24, `multi-modal`, [[paper]](https://www.themoonlight.io/paper/share/9e1233aa-e417-448a-9032-05a11bff5a66) [[repo]](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models)
+- "Are aligned neural networks adversarially aligned?", 2023-06, NeurIPS(Poster) 23, `multi-modal`, [[paper]](https://www.themoonlight.io/paper/share/282d463d-f9ce-4759-9e97-38b72c1200a7)
+- "(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs", 2023-07, `multi-modal` [[paper]](https://www.themoonlight.io/paper/share/520e644a-b4f9-497f-9ebf-d6da198699aa)
+- "Universal and Transferable Adversarial Attacks on Aligned Language Models", 2023-07, `transfer`, [[paper]](https://www.themoonlight.io/paper/share/5fc39128-9efa-49b3-8582-a909bab40dd3) [[repo]](https://github.com/llm-attacks/llm-attacks) [[page]](https://llm-attacks.org/)
+- "Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models", 2023-07, `multi-modal`, [[paper]](https://www.themoonlight.io/paper/share/5409b2f8-3f70-4cee-bcf3-01563877acf8)
+- "Image Hijacking: Adversarial Images can Control Generative Models at Runtime", 2023-09, `multi-modal`, [[paper]](https://www.themoonlight.io/paper/share/b06630ff-1269-4765-86ed-0c79563402c1) [[repo]](https://github.com/euanong/image-hijacks) [[site]](https://image-hijacks.github.io)
+- "Weak-to-Strong Jailbreaking on Large Language Models", 2024-04, `token-prob`, [[paper]](https://www.themoonlight.io/paper/share/f8ec09ce-ebe5-4d59-ab7f-51fa27a4805e) [[repo]](https://github.com/XuandongZhao/weak-to-strong)
 
 ### Black-box attack
 - "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection", 2023-02, AISec@CCS 23 [[paper]](https://arxiv.org/pdf/2302.12173.pdf)
