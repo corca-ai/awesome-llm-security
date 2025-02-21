@@ -63,25 +63,25 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Rethinking How to Evaluate Language Model Jailbreak", 2024-04, [[paper]](https://www.themoonlight.io/paper/share/44eaf8b8-2f20-4d35-a438-1fada8e091fc) [[repo]](https://github.com/controllability/jailbreak-evaluation)
 
 ### Backdoor attack
-- "BITE: Textual Backdoor Attacks with Iterative Trigger Injection", 2022-05, ACL 23, `defense` [[paper]](https://arxiv.org/pdf/2205.12700.pdf)
-- "Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models", 2023-05, EMNLP 23, [[paper]](https://arxiv.org/pdf/2305.01219.pdf)
-- "Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection", 2023-07, NAACL 24, [[paper]](https://arxiv.org/pdf/2307.16888.pdf) [[repo]](https://github.com/wegodev2/virtual-prompt-injection) [[site]](https://poison-llm.github.io/)
+- "BITE: Textual Backdoor Attacks with Iterative Trigger Injection", 2022-05, ACL 23, `defense` [[paper]](https://www.themoonlight.io/paper/share/04ad5e28-6f64-46b0-8714-64a845cad49e)
+- "Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models", 2023-05, EMNLP 23, [[paper]](https://www.themoonlight.io/paper/share/ec305746-2f9c-49d1-bf6b-020629578bd5)
+- "Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection", 2023-07, NAACL 24, [[paper]](https://www.themoonlight.io/paper/share/f4d75f4b-d811-4509-8b15-8bf7c6e45288) [[repo]](https://github.com/wegodev2/virtual-prompt-injection) [[site]](https://poison-llm.github.io/)
 
 ### Fingerprinting
-- "Instructional Fingerprinting of Large Language Models", 2024-01, NAACL 24 [[paper]](https://arxiv.org/abs/2401.12255) [[repo]](https://github.com/cnut1648/Model-Fingerprint) [[site]](https://cnut1648.github.io/Model-Fingerprint/)
-- "TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification", 2024-02, ACL 24 (findings) [[paper]](https://aclanthology.org/2024.findings-acl.683.pdf) [[repo]](https://github.com/parameterlab/trap) [[video]](https://www.youtube.com/watch?v=9PdvAaUVZ28) [[poster]](https://gubri.eu/pdf/Poster_TRAP_MGubri.pdf)
-- "LLMmap: Fingerprinting For Large Language Models", 2024-07, [[paper]](https://arxiv.org/abs/2407.15847) [[repo]](https://github.com/pasquini-dario/LLMmap)
+- "Instructional Fingerprinting of Large Language Models", 2024-01, NAACL 24 [[paper]](https://www.themoonlight.io/paper/share/335c578a-1826-484e-bc00-6dc8c83d7c20) [[repo]](https://github.com/cnut1648/Model-Fingerprint) [[site]](https://cnut1648.github.io/Model-Fingerprint/)
+- "TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification", 2024-02, ACL 24 (findings) [[paper]](https://www.themoonlight.io/paper/share/393cf159-106c-4a35-8f64-3de459a0cba4) [[repo]](https://github.com/parameterlab/trap) [[video]](https://www.youtube.com/watch?v=9PdvAaUVZ28) [[poster]](https://gubri.eu/pdf/Poster_TRAP_MGubri.pdf)
+- "LLMmap: Fingerprinting For Large Language Models", 2024-07, [[paper]](https://www.themoonlight.io/paper/share/b1223716-8fad-4d90-8a36-cce960514bab) [[repo]](https://github.com/pasquini-dario/LLMmap)
 
 ### Defense
-- "Baseline Defenses for Adversarial Attacks Against Aligned Language Models", 2023-09, [[paper]](https://arxiv.org/pdf/2309.00614.pdf) [[repo]](https://github.com/neelsjain/baseline-defenses)
-- "LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked", 2023-08, ICLR 24 Tiny Paper, `self-filtered`, [[paper]](https://arxiv.org/pdf/2308.07308.pdf) [[repo]](https://github.com/poloclub/llm-self-defense) [[site]](https://mphute.github.io/papers/llm-self-defense)
-- "Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM", 2023-09, `random-mask-filter`, [[paper]](https://arxiv.org/pdf/2309.14348.pdf)
-- "Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models", 2023-12, [[paper]](https://arxiv.org/pdf/2312.14197.pdf) [[repo]](https://github.com/microsoft/BIPIA)
-- "AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks", 2024-03, [[paper]](https://arxiv.org/pdf/2403.04783.pdf) [[repo]](https://github.com/XHMY/AutoDefense)
-- "Protecting Your LLMs with Information Bottleneck", 2024-04, [[paper]](https://arxiv.org/pdf/2404.13968.pdf) [[repo]](https://github.com/zichuan-liu/IB4LLMs)
-- "PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition", 2024-05, ICML 24, [[paper]](https://arxiv.org/pdf/2405.07932) [[repo]](https://github.com/Ed-Zh/PARDEN)
-- “Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs”, 2024-06, [[paper]]([https://arxiv.org/pdf/2405.07932](https://www.researchgate.net/publication/381283534_Adversarial_Tuning_Defending_Against_Jailbreak_Attacks_for_LLMs))
-- "Improving Alignment and Robustness with Circuit Breakers", 2024-06, NeurIPS 24, [[paper]](https://arxiv.org/pdf/2406.04313), [[repo]](https://github.com/GraySwanAI/circuit-breakers)
+- "Baseline Defenses for Adversarial Attacks Against Aligned Language Models", 2023-09, [[paper]](https://www.themoonlight.io/paper/share/77b67179-78ce-4a9b-99de-1db2213d85cb) [[repo]](https://github.com/neelsjain/baseline-defenses)
+- "LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked", 2023-08, ICLR 24 Tiny Paper, `self-filtered`, [[paper]](https://www.themoonlight.io/paper/share/2d66d34b-5666-4b1f-aa9e-16396c6f4df3) [[repo]](https://github.com/poloclub/llm-self-defense) [[site]](https://mphute.github.io/papers/llm-self-defense)
+- "Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM", 2023-09, `random-mask-filter`, [[paper]](https://www.themoonlight.io/paper/share/1a368b95-9e71-43a8-a9c6-5555ec6e925d)
+- "Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models", 2023-12, [[paper]](https://www.themoonlight.io/paper/share/2ccdff05-ed06-4fb8-a2b1-4ba1b567acec) [[repo]](https://github.com/microsoft/BIPIA)
+- "AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks", 2024-03, [[paper]](https://www.themoonlight.io/paper/share/6a5de986-c838-4e42-8abc-675fcc5908db) [[repo]](https://github.com/XHMY/AutoDefense)
+- "Protecting Your LLMs with Information Bottleneck", 2024-04, [[paper]](https://www.themoonlight.io/paper/share/677201ce-a95f-4639-94d5-860ee89a8280) [[repo]](https://github.com/zichuan-liu/IB4LLMs)
+- "PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition", 2024-05, ICML 24, [[paper]](https://www.themoonlight.io/paper/share/bb878c6e-411f-4af5-8883-5c5330007488) [[repo]](https://github.com/Ed-Zh/PARDEN)
+- “Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs”, 2024-06, [[paper]](https://www.themoonlight.io/paper/share/d7a0cdb8-dd4d-47f7-83e7-ece62e0f42a0)
+- "Improving Alignment and Robustness with Circuit Breakers", 2024-06, NeurIPS 24, [[paper]](https://www.themoonlight.io/paper/share/3d4b1d35-3e81-4a66-b48a-775896ce708a), [[repo]](https://github.com/GraySwanAI/circuit-breakers)
 
 ### Platform Security
 - "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins", 2023-09, [[paper]](https://arxiv.org/pdf/2309.10254.pdf) [[repo]](https://github.com/llm-platform-security/chatgpt-plugin-eval)
