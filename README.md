@@ -64,6 +64,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts", 2023-09, [[paper]](https://www.themoonlight.io/paper/share/2ebb8387-1e7a-4607-a309-fcd46a99d2be) [[repo]](https://github.com/sherdencooper/GPTFuzz) [[site]](https://github.com/sherdencooper/GPTFuzz)
 - "Many-shot Jailbreaking", 2024-04, [[paper]](https://www.themoonlight.io/paper/share/4db82652-210c-45cc-942b-032a34e03930)
 - "Rethinking How to Evaluate Language Model Jailbreak", 2024-04, [[paper]](https://www.themoonlight.io/paper/share/44eaf8b8-2f20-4d35-a438-1fada8e091fc) [[repo]](https://github.com/controllability/jailbreak-evaluation)
+- "Confidence Elicitation: A New Attack Vector for Large Language Models", 2025-02, ICLR(poster) 25 [[paper]](https://www.themoonlight.io/paper/share/156c1cb3-c9ea-443d-9cfc-3f494f711df5) [[repo]](https://github.com/Aniloid2/Confidence_Elicitation_Attacks)
 
 ### Backdoor attack
 - "BITE: Textual Backdoor Attacks with Iterative Trigger Injection", 2022-05, ACL 23, `defense` [[paper]](https://www.themoonlight.io/paper/share/04ad5e28-6f64-46b0-8714-64a845cad49e)
