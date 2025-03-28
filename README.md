@@ -65,6 +65,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Many-shot Jailbreaking", 2024-04, [[paper]](https://www.themoonlight.io/paper/share/4db82652-210c-45cc-942b-032a34e03930)
 - "Rethinking How to Evaluate Language Model Jailbreak", 2024-04, [[paper]](https://www.themoonlight.io/paper/share/44eaf8b8-2f20-4d35-a438-1fada8e091fc) [[repo]](https://github.com/controllability/jailbreak-evaluation)
 - "Confidence Elicitation: A New Attack Vector for Large Language Models", 2025-02, ICLR(poster) 25 [[paper]](https://www.themoonlight.io/paper/share/156c1cb3-c9ea-443d-9cfc-3f494f711df5) [[repo]](https://github.com/Aniloid2/Confidence_Elicitation_Attacks)
+- "Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy", 2025-03, CVPR 25 [[paper]](https://arxiv.org/pdf/2503.20823) [[repo]](https://github.com/naver-ai/JOOD)
 
 ### Backdoor attack
 - "BITE: Textual Backdoor Attacks with Iterative Trigger Injection", 2022-05, ACL 23, `defense` [[paper]](https://www.themoonlight.io/paper/share/04ad5e28-6f64-46b0-8714-64a845cad49e)
