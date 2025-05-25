@@ -102,6 +102,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [[paper]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [[repo]](https://github.com/ethz-spylab/agentdojo) [[site]](https://agentdojo.spylab.ai/)
 - "Formalizing and Benchmarking Prompt Injection Attacks and Defenses", 2024-08, USENIX Security 24, [[paper]](https://www.themoonlight.io/paper/share/cd17769a-b23f-4be0-8078-938f9d4fd827), [[repo]](https://github.com/liu00222/Open-Prompt-Injection)
 - "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [[paper]](https://www.themoonlight.io/paper/share/7ab99274-2085-4b67-8941-c5a9f8310ebb)
+- [Primus: A Benchmark for Evaluating LLMs in Cybersecurity Tasks](https://huggingface.co/collections/trendmicro-ailab/primus-67b1fd27052b802b4af9d243) – A comprehensive collection of datasets designed for evaluating LLMs on cybersecurity-relevant tasks such as threat classification, log analysis, and incident response reasoning.
+
 
 ## Tools
 
