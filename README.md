@@ -76,6 +76,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Instructional Fingerprinting of Large Language Models", 2024-01, NAACL 24 [[paper]](https://www.themoonlight.io/paper/share/335c578a-1826-484e-bc00-6dc8c83d7c20) [[repo]](https://github.com/cnut1648/Model-Fingerprint) [[site]](https://cnut1648.github.io/Model-Fingerprint/)
 - "TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification", 2024-02, ACL 24 (findings) [[paper]](https://www.themoonlight.io/paper/share/393cf159-106c-4a35-8f64-3de459a0cba4) [[repo]](https://github.com/parameterlab/trap) [[video]](https://www.youtube.com/watch?v=9PdvAaUVZ28) [[poster]](https://gubri.eu/pdf/Poster_TRAP_MGubri.pdf)
 - "LLMmap: Fingerprinting For Large Language Models", 2024-07, [[paper]](https://www.themoonlight.io/paper/share/b1223716-8fad-4d90-8a36-cce960514bab) [[repo]](https://github.com/pasquini-dario/LLMmap)
+- "Attacks & Defenses Against LLM Fingerprinting", 2024-08, [[paper]](https://www.themoonlight.io/paper/share/f2ba19fa-e1bb-472a-952e-b5d776a32aa3)
 
 ### Defense
 - "Baseline Defenses for Adversarial Attacks Against Aligned Language Models", 2023-09, [[paper]](https://www.themoonlight.io/paper/share/77b67179-78ce-4a9b-99de-1db2213d85cb) [[repo]](https://github.com/neelsjain/baseline-defenses)
