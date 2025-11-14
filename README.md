@@ -66,6 +66,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Rethinking How to Evaluate Language Model Jailbreak", 2024-04, [[paper]](https://www.themoonlight.io/paper/share/44eaf8b8-2f20-4d35-a438-1fada8e091fc) [[repo]](https://github.com/controllability/jailbreak-evaluation)
 - "Confidence Elicitation: A New Attack Vector for Large Language Models", 2025-02, ICLR(poster) 25 [[paper]](https://www.themoonlight.io/paper/share/156c1cb3-c9ea-443d-9cfc-3f494f711df5) [[repo]](https://github.com/Aniloid2/Confidence_Elicitation_Attacks)
 - "Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy", 2025-03, CVPR 25 [[paper]](https://arxiv.org/pdf/2503.20823) [[repo]](https://github.com/naver-ai/JOOD)
+- "CAI: An Open, Bug Bounty-Ready Cybersecurity AI", 2025-04, [[paper]](https://www.themoonlight.io/paper/6ce44cc4-ed7e-4e47-8350-9c13f0df9c77) [[repo]](https://github.com/aliasrobotics/CAI)
+- 
 
 ### Backdoor attack
 - "BITE: Textual Backdoor Attacks with Iterative Trigger Injection", 2022-05, ACL 23, `defense` [[paper]](https://www.themoonlight.io/paper/share/04ad5e28-6f64-46b0-8714-64a845cad49e)
@@ -118,6 +120,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [CAI](https://github.com/aliasrobotics/CAI): An open-source cybersecurity AI framework that automates security testing and bug hunting. ![GitHub Repo stars](https://img.shields.io/github/stars/aliasrobotics/CAI?style=social)
 
 ## Articles
 
