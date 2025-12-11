@@ -28,6 +28,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 ## Papers
 
 ### White-box attack
+- Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs <br> NeurIPS Lock-LLM Workshop 2025 [[Paper]](https://openreview.net/pdf?id=OkNfb8SmLh) [[Blog]] (https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17)
 - "Visual Adversarial Examples Jailbreak Large Language Models", 2023-06, AAAI(Oral) 24, `multi-modal`, [[paper]](https://www.themoonlight.io/paper/share/9e1233aa-e417-448a-9032-05a11bff5a66) [[repo]](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models)
 - "Are aligned neural networks adversarially aligned?", 2023-06, NeurIPS(Poster) 23, `multi-modal`, [[paper]](https://www.themoonlight.io/paper/share/282d463d-f9ce-4759-9e97-38b72c1200a7)
 - "(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs", 2023-07, `multi-modal` [[paper]](https://www.themoonlight.io/paper/share/520e644a-b4f9-497f-9ebf-d6da198699aa)
@@ -92,6 +93,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins", 2023-09, [[paper]](https://www.themoonlight.io/paper/share/fdb16919-a931-4690-bbf0-602d6feb56e5) [[repo]](https://github.com/llm-platform-security/chatgpt-plugin-eval)
 
 ### Survey
+- Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs <br> NeurIPS Lock-LLM Workshop 2025 [[Paper]](https://openreview.net/pdf?id=OkNfb8SmLh) [[Blog]] (https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17)
 - "Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks", 2023-10, ACL 24, [[paper]](https://www.themoonlight.io/paper/share/51b7e82c-069f-4448-8a43-9468fb0bb8cf)
 - "Security and Privacy Challenges of Large Language Models: A Survey", 2024-02, [[paper]](https://www.themoonlight.io/paper/share/3a962e21-a3a9-45b0-95bb-303cedf1a9cc)
 - "Breaking Down the Defenses: A Comparative Survey of Attacks on Large Language Models", 2024-03, [[paper]](https://www.themoonlight.io/paper/share/9acc7a47-98bf-4509-a931-e7b548df9d23)
