@@ -112,7 +112,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [Spikee](https://github.com/ReversecLabs/spikee): LLM prompt injection kit ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/spikee?style=social)
-- [PromptFoo](https://github.com/promptfoo/promptfoo) LLM security evaluation framework, including agents, and RAGs. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
+- [PromptFoo](https://github.com/promptfoo/promptfoo): LLM security evaluation framework, including agents, and RAGs. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 - [DeepTeam](https://github.com/confident-ai/deepteam): LLM prompt injection, hallucination, and data leaks toolkit. ![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social)
 
 ## Articles
