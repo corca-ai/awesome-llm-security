@@ -120,7 +120,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
 ## Articles
-
+- [The Weaponization of AI by Nation-States: A Zero Trust Defense Strategy](https://accuknox.com/blog/anthropic-ai-security-gtg-1002)
+- [Securing Autonomous AI Agents: Sandboxing Strategies for OpenClaw and Moltbook](https://accuknox.com/blog/openclaw-security-ai-agent-sandboxing-aispm)
 - [Hacking Auto-GPT and escaping its docker container](https://positive.security/blog/auto-gpt-rce)
 - [Prompt Injection Cheat Sheet: How To Manipulate AI Language Models](https://blog.seclify.com/prompt-injection-cheat-sheet/)
 - [Indirect Prompt Injection Threats](https://greshake.github.io/)
