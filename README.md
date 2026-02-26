@@ -118,6 +118,9 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [Aguara](https://github.com/garagon/aguara): Static security scanner for AI agent skills and MCP servers. 148 rules, 13 categories. ![GitHub Repo stars](https://img.shields.io/github/stars/garagon/aguara?style=social)
+- [Aguara MCP](https://github.com/garagon/aguara-mcp): MCP server exposing security scanning as a tool for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/garagon/aguara-mcp?style=social)
+- [Oktsec](https://github.com/oktsec/oktsec): Security proxy for agent-to-agent communication with identity verification and policy enforcement. ![GitHub Repo stars](https://img.shields.io/github/stars/oktsec/oktsec?style=social)
 
 ## Articles
 
