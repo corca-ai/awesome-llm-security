@@ -117,7 +117,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz): the open-source tool to help you harden your GenAI applications ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social)
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
-- [Agent Shield](https://github.com/elliotllliu/agent-shield): Static security scanner for AI agent skills, MCP servers, and plugins. Detects data exfiltration, backdoors, prompt injection (8 languages), tool shadowing, and supply chain risks with 30 rules. ![GitHub Repo stars](https://img.shields.io/github/stars/elliotllliu/agent-shield?style=social)
+- [AgentShield](https://github.com/elliotllliu/agent-shield): Static security scanner for AI agent skills, MCP servers, and plugins. Detects data exfiltration, backdoors, prompt injection (8 languages), tool poisoning, and supply chain risks with 31 rules. ![GitHub Repo stars](https://img.shields.io/github/stars/elliotllliu/agent-shield?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
 ## Articles
