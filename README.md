@@ -5,7 +5,7 @@ A curation of awesome tools, documents and projects about LLM Security.
 Contributions are always welcome. Please read the [Contribution Guidelines](CONTRIBUTING.md) before contributing.
 
 > [!NOTE] 
-> ⚡ For efficient research navigation, we’re sharing PDFs via [Moonlight](https://www.themoonlight.io/), which provides summaries alongside the original paper.
+> ⚡ For efficient research navigation, we're sharing PDFs via [Moonlight](https://www.themoonlight.io/), which provides summaries alongside the original paper.
 
 ## Table of Contents
 
@@ -57,7 +57,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Multilingual Jailbreak Challenges in Large Language Models", 2023-10, ICLR(poster) 24, [[paper]](https://www.themoonlight.io/paper/share/b632c951-861c-4c12-8254-315ef0e074c9) [[repo]](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)
 - "Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation", 2023-11, SoLaR(poster) 24, [[paper]](https://www.themoonlight.io/paper/share/540ebc2d-33bb-488f-8cc6-6f2886ffe279)
 - "DeepInception: Hypnotize Large Language Model to Be Jailbreaker", 2023-11, [[paper]](https://www.themoonlight.io/paper/share/c57a3c8c-50a5-4a49-8f99-b1eec1a9b2b1) [[repo]](https://github.com/tmlr-group/DeepInception) [[site]](https://deepinception.github.io/)
-- "A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily", 2023-11, NAACL 24, [[paper]](https://www.themoonlight.io/paper/share/fd52e4ff-efb3-471b-abf1-ec689418e0bf) [[repo]](https://github.com/NJUNLP/ReNeLLM)
+- "A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily", 2023-11, NAACL 24, [[paper]](https://www.themoonlight.io/paper/share/fd52e4ff-efb3-471b-abf1-ec689418e0bf) [[repo]](https://github.com/NJUNLP/ReNeLLM)
 - "AutoDAN: Automatic and Interpretable Adversarial Attacks on Large Language Models", 2023-10, [[paper]](https://www.themoonlight.io/paper/share/c340e5ed-c8d2-4b15-affe-aaad912943bd)
 - "Language Model Inversion", 2023-11, ICLR(poster) 24, [[paper]](https://www.themoonlight.io/paper/share/d0615bef-03b4-4e2b-8bff-1b19e15c0056) [[repo]](https://github.com/jxmorris12/vec2text)
 - "An LLM can Fool Itself: A Prompt-Based Adversarial Attack", 2023-10, ICLR(poster) 24, [[paper]](https://www.themoonlight.io/paper/share/193ec3b5-78ae-483b-adf5-aa6684919685) [[repo]](https://github.com/GodXuxilie/PromptAttack)
@@ -85,11 +85,11 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks", 2024-03, [[paper]](https://www.themoonlight.io/paper/share/6a5de986-c838-4e42-8abc-675fcc5908db) [[repo]](https://github.com/XHMY/AutoDefense)
 - "Protecting Your LLMs with Information Bottleneck", 2024-04, [[paper]](https://www.themoonlight.io/paper/share/677201ce-a95f-4639-94d5-860ee89a8280) [[repo]](https://github.com/zichuan-liu/IB4LLMs)
 - "PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition", 2024-05, ICML 24, [[paper]](https://www.themoonlight.io/paper/share/bb878c6e-411f-4af5-8883-5c5330007488) [[repo]](https://github.com/Ed-Zh/PARDEN)
-- “Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs”, 2024-06, [[paper]](https://www.themoonlight.io/paper/share/d7a0cdb8-dd4d-47f7-83e7-ece62e0f42a0)
+- "Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs", 2024-06, [[paper]](https://www.themoonlight.io/paper/share/d7a0cdb8-dd4d-47f7-83e7-ece62e0f42a0)
 - "Improving Alignment and Robustness with Circuit Breakers", 2024-06, NeurIPS 24, [[paper]](https://www.themoonlight.io/paper/share/3d4b1d35-3e81-4a66-b48a-775896ce708a), [[repo]](https://github.com/GraySwanAI/circuit-breakers)
 
 ### Platform Security
-- "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins", 2023-09, [[paper]](https://www.themoonlight.io/paper/share/fdb16919-a931-4690-bbf0-602d6feb56e5) [[repo]](https://github.com/llm-platform-security/chatgpt-plugin-eval)
+- "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins", 2023-09, [[paper]](https://www.themoonlight.io/paper/share/fdb16919-a931-4690-bbf0-602d6feb56e5) [[repo]](https://github.com/llm-platform-security/chatgpt-plugin-eval)
 
 ### Survey
 - "Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks", 2023-10, ACL 24, [[paper]](https://www.themoonlight.io/paper/share/51b7e82c-069f-4448-8a43-9468fb0bb8cf)
@@ -118,13 +118,14 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [brood-box](https://github.com/stacklok/brood-box): a CLI tool for running coding agents inside hardware-isolated microVMs with snapshot isolation and egress control ![GitHub Repo stars](https://img.shields.io/github/stars/stacklok/brood-box?style=social)
 
 ## Articles
 
 - [Hacking Auto-GPT and escaping its docker container](https://positive.security/blog/auto-gpt-rce)
 - [Prompt Injection Cheat Sheet: How To Manipulate AI Language Models](https://blog.seclify.com/prompt-injection-cheat-sheet/)
 - [Indirect Prompt Injection Threats](https://greshake.github.io/)
-- [Prompt injection: What’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
+- [Prompt injection: What's the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - [PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 - [ChatGPT Plugins: Data Exfiltration via Images & Cross Plugin Request Forgery](https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/)
