@@ -118,6 +118,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [Cerberus](https://github.com/Odingard/cerberus): Runtime security platform for agentic AI. Detects the Lethal Trifecta (privileged data access + prompt injection + exfiltration path). EGI structural detection. TypeScript + Python. N=525 validated, 100% L1/L2 detection, 0.0% FPR. ![GitHub Repo stars](https://img.shields.io/github/stars/Odingard/cerberus?style=social)
 
 ## Articles
 
