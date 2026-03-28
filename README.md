@@ -37,6 +37,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Weak-to-Strong Jailbreaking on Large Language Models", 2024-04, `token-prob`, [[paper]](https://www.themoonlight.io/paper/share/f8ec09ce-ebe5-4d59-ab7f-51fa27a4805e) [[repo]](https://github.com/XuandongZhao/weak-to-strong)
 
 ### Black-box attack
+- "Internal Safety Collapse in Frontier Large Language Models", 2026-03, `task-driven`, [[paper]](https://arxiv.org/abs/2603.23509) [[repo]](https://github.com/wuyoscar/ISC-Bench)
 - "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection", 2023-02, AISec@CCS 23 [[paper]](https://www.themoonlight.io/paper/share/8e338d56-34fc-411f-8f5f-2746997d7927)
 - "Jailbroken: How Does LLM Safety Training Fail?", 2023-07, NeurIPS(Oral) 23, [[paper]](https://www.themoonlight.io/paper/share/1b53328c-f894-443b-8818-7e1d35580202)
 - "Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models", 2023-07, [[paper]](https://www.themoonlight.io/paper/share/4d35806f-3e25-4b28-abb3-2ea94b7246bd) [[repo]](https://github.com/qiuhuachuan/latent-jailbreak/tree/main)
