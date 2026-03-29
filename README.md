@@ -117,6 +117,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz): the open-source tool to help you harden your GenAI applications ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social)
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
+- [ForceField](https://github.com/Data-ScienceTech/forcefield): AI security SDK -- prompt injection detection, PII redaction, output moderation, security evals with 116 built-in attacks. LangChain and LlamaIndex integrations. Zero dependencies, works offline. ![GitHub Repo stars](https://img.shields.io/github/stars/Data-ScienceTech/forcefield?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
 ## Articles
