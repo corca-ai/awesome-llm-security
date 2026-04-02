@@ -9,7 +9,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Table of Contents
 
-- [Awesome LLM Security ](#awesome-llm-security-)
+- [Awesome LLM Security ](#awesome-llm-security-)h
   - [Table of Contents](#table-of-contents)
   - [Papers](#papers)
     - [White-box attack](#white-box-attack)
@@ -118,7 +118,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
-- [@ny-squared/guard](https://github.com/ny-squared/guard): Unified LLM Security SDK — one-liner protection for OpenAI/Anthropic/Gemini. Rule-based OSS mode (Apache 2.0) + ML-enhanced Pro mode (~95% accuracy). Scans OWASP Top 10 LLM threats.
+- [`@ny-squared/guard`](https://github.com/nysquared-support-ux/guard): Unified LLM Security SDK — one-liner protection for OpenAI/Anthropic/Gemini. Rule-based OSS mode (Apache 2.0) + ML-enhanced Pro mode. Scans OWASP Top 10 LLM threats. ![GitHub Repo stars](https://img.shields.io/github/stars/nysquared-support-ux/guard?style=social)
 
 ## Articles
 
