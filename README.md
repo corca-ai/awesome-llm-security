@@ -9,7 +9,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Table of Contents
 
-- [Awesome LLM Security ](#awesome-llm-security-)h
+- [Awesome LLM Security ](#awesome-llm-security-)
   - [Table of Contents](#table-of-contents)
   - [Papers](#papers)
     - [White-box attack](#white-box-attack)
