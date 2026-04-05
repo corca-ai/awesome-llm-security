@@ -138,6 +138,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Other Awesome Projects
 
+- [Awesome OpenClaw Research](https://github.com/REAL-Lab-NU/Awesome-OpenClaw-Research) - A curated collection of academic papers, security reports, datasets, and tools for the OpenClaw AI agent ecosystem.
 - (0din GenAI Bug Bounty from Mozilla)(https://0din.ai): The 0Day Investigative Network is a bug bounty program focusing on flaws within GenAI models. Vulnerability classes include Prompt Injection, Training Data Poisoning, DoS, and more.
 - [Gandalf](https://gandalf.lakera.ai/): a prompt injection wargame
 - [LangChain vulnerable to code injection - CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
