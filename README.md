@@ -7,6 +7,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 > [!NOTE] 
 > ⚡ For efficient research navigation, we’re sharing PDFs via [Moonlight](https://www.themoonlight.io/), which provides summaries alongside the original paper.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code including security auditing, penetration testing analysis, and WAF configuration agents.
 ## Table of Contents
 
 - [Awesome LLM Security ](#awesome-llm-security-)
