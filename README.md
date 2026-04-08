@@ -147,6 +147,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): the world's top security competition
 - [PromptBounty.io](https://sites.google.com/view/promptbounty/)
 - [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms)
+- [LochBot](https://lochbot.com): a free browser-based prompt injection vulnerability checker that tests chatbot system prompts against 31 injection attack patterns and returns a vulnerability score with defense suggestions. Runs entirely client-side.
 
 ## Other Useful Resources
 
