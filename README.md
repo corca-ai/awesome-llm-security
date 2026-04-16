@@ -98,6 +98,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)", 2024-07, [[paper]](https://www.themoonlight.io/paper/share/8004eebc-df88-4150-8292-20e234172066)
 
 ## Benchmark
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+
 - "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models", 2024-03, [[paper]](https://www.themoonlight.io/paper/share/2e9cecdf-c6ec-43c7-ba8b-af9a8ee3a3c9), [[repo]](https://github.com/JailbreakBench/jailbreakbench)
 - "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [[paper]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [[repo]](https://github.com/ethz-spylab/agentdojo) [[site]](https://agentdojo.spylab.ai/)
 - "Formalizing and Benchmarking Prompt Injection Attacks and Defenses", 2024-08, USENIX Security 24, [[paper]](https://www.themoonlight.io/paper/share/cd17769a-b23f-4be0-8078-938f9d4fd827), [[repo]](https://github.com/liu00222/Open-Prompt-Injection)
