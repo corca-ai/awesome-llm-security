@@ -147,6 +147,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): the world's top security competition
 - [PromptBounty.io](https://sites.google.com/view/promptbounty/)
 - [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms)
+- [GTK Cyber AI Training Dojo](https://gtkcyber.com/lp/ai-training-dojo): free AI security training platform with 14 prompt injection challenges, RAG poisoning labs, and encoding bypass exercises
 
 ## Other Useful Resources
 
