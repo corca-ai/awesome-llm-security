@@ -147,6 +147,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): the world's top security competition
 - [PromptBounty.io](https://sites.google.com/view/promptbounty/)
 - [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms)
+- [Wraith Academy](https://wraith.sh/academy): hands-on AI pentest curriculum with CTF-style challenges against live LLM agents
+- [wraith-challenges](https://github.com/gh0stshe11/wraith-challenges): standalone open-source AI security CTF challenges using a hybrid LLM + deterministic trigger architecture. Single-file Python, MIT.
 
 ## Other Useful Resources
 
