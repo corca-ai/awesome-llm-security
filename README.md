@@ -147,6 +147,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): the world's top security competition
 - [PromptBounty.io](https://sites.google.com/view/promptbounty/)
 - [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms)
+- [EmbedGuard](https://github.com/neerazz/embedguard): cross-layer detection and provenance attestation for adversarial embedding attacks in RAG systems; [paper DOI](https://doi.org/10.22399/ijcesen.4869).
 
 ## Other Useful Resources
 
