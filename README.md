@@ -118,6 +118,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [tool-output-mimicry](https://github.com/314-ia/tool-output-mimicry): reference reproducer for the Tool Output Mimicry primitive — bypasses multi-layer agentic AI defenses by impersonating an upstream agent's task summary in a user-controlled field that a downstream agent reads; validated end-to-end against the OWASP FinBot CTF, companion paper at doi.org/10.5281/zenodo.19794072. ![GitHub Repo stars](https://img.shields.io/github/stars/314-ia/tool-output-mimicry?style=social)
 
 ## Articles
 
