@@ -119,6 +119,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
+- [Cycles](https://github.com/runcycles/cycles-server): open-source runtime authority that enforces hard limits on AI agent spend, risk, and tool actions before they execute. Multi-tenant, concurrency-safe, with an MCP server for Claude Desktop/Cursor/Windsurf. Action-authority enforcement complements prompt-injection defenses. ![GitHub Repo stars](https://img.shields.io/github/stars/runcycles/cycles-server?style=social)
+
 ## Articles
 
 - [Hacking Auto-GPT and escaping its docker container](https://positive.security/blog/auto-gpt-rce)
