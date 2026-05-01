@@ -104,6 +104,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [[paper]](https://www.themoonlight.io/paper/share/7ab99274-2085-4b67-8941-c5a9f8310ebb)
 
 ## Tools
+- [Agentic-Mythos-SOC](https://github.com/pentrestion/Agentic-Mythos-SOC): Multi-agent offensive security and orchestration framework featuring frontier reasoning for SOC automation. ![GitHub Repo stars](https://img.shields.io/github/stars/pentrestion/Agentic-Mythos-SOC?style=social)
+- [Capybara Nexus v2](https://github.com/pentrestion/capybara-nexus-v2): Autonomous AI red teaming and security auditing skill for Gemini CLI, focused on zero-day detection and exploit chaining. ![GitHub Repo stars](https://img.shields.io/github/stars/pentrestion/capybara-nexus-v2?style=social)
 
 - [UTCP](https://github.com/universal-tool-calling-protocol/): Secure, direct tool-calling to any native endpoint for your AI agent
 - [Plexiglass](https://github.com/kortex-labs/plexiglass): a security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
