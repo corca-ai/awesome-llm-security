@@ -118,6 +118,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [Bulwark](https://github.com/anilatambharii/bulwark): five-layer defense framework for production AI agents — sanitizer, injection detector, compartmentalized RBAC, encrypted audit trail, human-confirmation gate. MCP-native; HIPAA / SOC 2 / NERC CIP mapped. ![](https://img.shields.io/github/stars/anilatambharii/bulwark.svg?label=Stars)
 
 ## Articles
 
