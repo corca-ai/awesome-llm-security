@@ -138,6 +138,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Other Awesome Projects
 
+- [agentic-anti-patterns](https://github.com/jimliu741523/agentic-anti-patterns): curated catalog of 20 LLM-agent failure modes (prompt injection via tool output, MCP server trust boundary collapse, RAG retrieval poisoning, exfiltration via agent-initiated fetch, autonomy creep, multi-agent vertical-domain failure, and more) with symptoms, root causes, mitigations, and detection per entry.
 - (0din GenAI Bug Bounty from Mozilla)(https://0din.ai): The 0Day Investigative Network is a bug bounty program focusing on flaws within GenAI models. Vulnerability classes include Prompt Injection, Training Data Poisoning, DoS, and more.
 - [Gandalf](https://gandalf.lakera.ai/): a prompt injection wargame
 - [LangChain vulnerable to code injection - CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
