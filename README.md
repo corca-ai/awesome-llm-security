@@ -118,6 +118,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [great_cto / AgentShield](https://github.com/avelikiy/great_cto): 24-rule OWASP LLM Top 10 scanner built into `npx great-cto scan`. Detects prompt-injection in template literals, eval of model output, SSRF in tools, RAG poisoning, secrets-in-prompts, cost-runaway loops. SARIF 2.1.0 output uploads to GitHub Code Scanning. ![GitHub Repo stars](https://img.shields.io/github/stars/avelikiy/great_cto?style=social)
 
 ## Articles
 
