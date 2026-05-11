@@ -114,12 +114,11 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Guard](https://github.com/laiyer-ai/llm-guard): a security toolkit for LLM Interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 - [Vigil](https://github.com/deadbits/vigil-llm): a LLM prompt injection detection toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social)
 - [jailbreak-evaluation](https://github.com/controllability/jailbreak-evaluation): an easy-to-use Python package for language model jailbreak evaluation ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social)
-- [prompt-defense-audit](https://github.com/ppcvote/prompt-defense-audit): a deterministic prompt defense scanner that checks system prompts for MISSING defenses against 17+ prompt-injection vectors. Pure regex, <5ms, zero deps. ![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/prompt-defense-audit?style=social)
+- [prompt-defense-audit](https://github.com/ppcvote/prompt-defense-audit): a deterministic prompt defense scanner that checks system prompts for missing defenses against 17+ prompt-injection vectors. Pure regex, <5ms, zero dependencies. ![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/prompt-defense-audit?style=social)
 - [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz): the open-source tool to help you harden your GenAI applications ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social)
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
-
 - [misp-mcp-server](https://github.com/ppcvote/misp-mcp-server): MISP (Malware Information Sharing Platform) MCP server with built-in prompt-injection defense via prompt-defense-audit. Read-only threat-intel tools, scans MISP responses for adversarial seeding before LLM exposure. ![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/misp-mcp-server?style=social)
 
 ## Articles
