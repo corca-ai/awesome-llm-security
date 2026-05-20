@@ -147,6 +147,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): the world's top security competition
 - [PromptBounty.io](https://sites.google.com/view/promptbounty/)
 - [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms)
+- [Extended Cyber Kill Chain for AI-Era Threats](https://github.com/gouravnagar-infosec/ai-kill-chain): A defender-side extension of the Lockheed Martin Cyber Kill Chain for LLM and agentic AI threats, mapped to MITRE ATLAS and the OWASP LLM Top 10.
 
 ## Other Useful Resources
 
