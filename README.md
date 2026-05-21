@@ -118,7 +118,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
-- [LLM Safe Haven](https://github.com/pleasedodisturb/llm-safe-haven): Security toolkit for AI coding agents. `npx llm-safe-haven` detects 14 agents (Claude Code, Cursor, Windsurf, Copilot, etc.), installs fail-closed security hooks, and scores your posture Level 0-4. Includes threat model with 26+ real incidents and hardening guides for 6 agents. ![GitHub Repo stars](https://img.shields.io/github/stars/pleasedodisturb/llm-safe-haven?style=social)
+- [LLM Safe Haven](https://github.com/pleasedodisturb/llm-safe-haven): Security toolkit for solo developers running AI coding agents. `npx llm-safe-haven` installs fail-closed hooks, scores posture, and ships hardening guides for Claude Code, Cursor, Windsurf, Copilot, and other agents. ![GitHub Repo stars](https://img.shields.io/github/stars/pleasedodisturb/llm-safe-haven?style=social)
 
 ## Articles
 
