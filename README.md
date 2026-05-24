@@ -156,6 +156,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - Blog: [Kai's Blog](https://kai-greshake.de/)
 - Newsletter: [AI safety takes](https://newsletter.danielpaleka.com/)
 - Newsletter & Blog: [Hackstery](https://hackstery.com)
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 <a href="https://star-history.com/#corca-ai/awesome-llm-security&Date">
   <picture>
