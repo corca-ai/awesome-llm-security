@@ -156,6 +156,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - Blog: [Kai's Blog](https://kai-greshake.de/)
 - Newsletter: [AI safety takes](https://newsletter.danielpaleka.com/)
 - Newsletter & Blog: [Hackstery](https://hackstery.com)
+- Reference: [AI Data Watch](https://baa-atlas.vercel.app/ai) - per major AI/LLM tool, tracks whether it trains on your data, whether you can opt out, and whether it offers zero-retention or a DPA; each verdict cites the vendor's own documentation with a last-verified date.
 
 <a href="https://star-history.com/#corca-ai/awesome-llm-security&Date">
   <picture>
