@@ -118,6 +118,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [agent-fixer-stage](https://github.com/amurlaniakea/agent-fixer-stage): Sub-millisecond terminal-stage output verification middleware to neutralize indirect prompt injections and data exfiltration attempts from compromised MCP tool interactions.
+- [mcp-core-defense](https://github.com/amurlaniakea/mcp-core-defense): Client-side security gatekeeper that audits MCP `tools/list` metadata to protect against Tool Description Poisoning (OWASP MCP03:2025).
 
 ## Articles
 
