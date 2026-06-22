@@ -156,6 +156,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - Blog: [Kai's Blog](https://kai-greshake.de/)
 - Newsletter: [AI safety takes](https://newsletter.danielpaleka.com/)
 - Newsletter & Blog: [Hackstery](https://hackstery.com)
+- Guide: [hego.red](https://hego.red/) - practical, hands-on AI/LLM red teaming notes (prompt injection, jailbreaks, indirect injection, RAG, agents, methodology, worked labs)
 
 <a href="https://star-history.com/#corca-ai/awesome-llm-security&Date">
   <picture>
