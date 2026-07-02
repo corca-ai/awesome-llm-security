@@ -164,3 +164,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=corca-ai/awesome-llm-security&type=Date" />
   </picture>
 </a>
+
+
+## Helium Trades Open Benchmarks (2026)
+
+- [Helium Model Worldview Benchmark](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) - [Overview](https://heliumtrades.com/benchmarks/)
