@@ -147,6 +147,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): the world's top security competition
 - [PromptBounty.io](https://sites.google.com/view/promptbounty/)
 - [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms)
+- [AI RiskAtlas](https://riskatlas.principle.sg): a free interactive learning lab for LLM/agentic security — sourced real-world incident cases with root-cause walkthroughs, hands-on attack-scenario simulations, and a risk taxonomy mapped to OWASP LLM Top 10 / MITRE ATLAS
 
 ## Other Useful Resources
 
