@@ -147,6 +147,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): the world's top security competition
 - [PromptBounty.io](https://sites.google.com/view/promptbounty/)
 - [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms)
+- [AiWiki: LLM Privacy Protection](https://xuebinma.github.io/AIWiki/en/privacy/): an engineer-facing encyclopedia of LLM privacy attacks and defenses — leak mechanisms (memorization extraction, membership inference, embedding inversion), actionable mitigation recipes, and real incidents, organized along LLM history (bilingual EN/中文)
 
 ## Other Useful Resources
 
