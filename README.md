@@ -118,6 +118,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [trentclaw](https://github.com/trnt-ai/trent-openclaw-security-assessment): Security scanner for OpenClaw agent deployments — flags misconfigurations, risky skills, and chained attack paths across gateway config, tool permissions, MCP servers, and plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/trnt-ai/trent-openclaw-security-assessment?style=social)
 
 ## Articles
 
@@ -135,6 +136,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [How Anyone can Hack ChatGPT - GPT4o](https://medium.com/@deltaaruna/how-anyone-can-hack-chatgpt-aa7959684ef0)
 - [LLM Evaluation metrics, frmaework, and checklist](https://repello.ai/blog/llm-evaluation-metrics-frameworks-and-checklist)
 - [How RAG Poisoning Made Llama3 Racist!](https://repello.ai/blog/how-rag-poisoning-made-llama3-racist-1c5e390dd564)
+- [Benchmarking OpenClaw Skill Scanners: Reasoning vs. Signatures on a 60-Skill Dataset](https://trent.ai/blog/openclaw-skill-scanner-benchmark/)
 
 ## Other Awesome Projects
 
