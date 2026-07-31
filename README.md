@@ -105,6 +105,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Tools
 
+- [Hades Blackwatch](https://github.com/DebasishTripathy13/Hades-Blackwatch): AI application security review skill covering LLM apps, RAG, agentic systems, and MCP servers, mapped to OWASP LLM/Agentic Top 10 and MITRE ATLAS. ![GitHub Repo stars](https://img.shields.io/github/stars/DebasishTripathy13/Hades-Blackwatch?style=social)
 - [UTCP](https://github.com/universal-tool-calling-protocol/): Secure, direct tool-calling to any native endpoint for your AI agent
 - [Plexiglass](https://github.com/kortex-labs/plexiglass): a security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama): set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
