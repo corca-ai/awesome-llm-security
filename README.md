@@ -140,6 +140,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 - (0din GenAI Bug Bounty from Mozilla)(https://0din.ai): The 0Day Investigative Network is a bug bounty program focusing on flaws within GenAI models. Vulnerability classes include Prompt Injection, Training Data Poisoning, DoS, and more.
 - [Gandalf](https://gandalf.lakera.ai/): a prompt injection wargame
+- [Jackpot](https://hego.red/jackpot): a ten floor prompt injection lab, one floor per OWASP LLM Top 10 category, judged server side
 - [LangChain vulnerable to code injection - CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
 - [LLM Security startups](https://github.com/rushout09/llm-security-startups)
 - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial)
