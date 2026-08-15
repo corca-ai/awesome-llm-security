@@ -118,6 +118,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [WebMCP Attack Surface Scanner](https://github.com/ElonMusk2002/webmcp-scanner): Chrome extension that discovers a page's WebMCP tools and flags prompt injection hidden in tool descriptions, destructive actions with no consent gate, and unconstrained input schemas — plus active IDOR probing (real tool calls with varied IDs, diffing identity fields in the response, not just name-based heuristics)
 
 ## Articles
 
