@@ -87,6 +87,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition", 2024-05, ICML 24, [[paper]](https://www.themoonlight.io/paper/share/bb878c6e-411f-4af5-8883-5c5330007488) [[repo]](https://github.com/Ed-Zh/PARDEN)
 - “Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs”, 2024-06, [[paper]](https://www.themoonlight.io/paper/share/d7a0cdb8-dd4d-47f7-83e7-ece62e0f42a0)
 - "Improving Alignment and Robustness with Circuit Breakers", 2024-06, NeurIPS 24, [[paper]](https://www.themoonlight.io/paper/share/3d4b1d35-3e81-4a66-b48a-775896ce708a), [[repo]](https://github.com/GraySwanAI/circuit-breakers)
+- "DeepContext: Stateful Real-Time Detection of Multi-Turn Adversarial Intent Drift in LLMs", 2026-02, `multi-turn`, [[paper]](https://arxiv.org/abs/2602.16935)
 
 ### Platform Security
 - "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins", 2023-09, [[paper]](https://www.themoonlight.io/paper/share/fdb16919-a931-4690-bbf0-602d6feb56e5) [[repo]](https://github.com/llm-platform-security/chatgpt-plugin-eval)
@@ -118,6 +119,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [Ramparts](https://github.com/highflame-ai/ramparts): open-source scanner for MCP servers and agent skills — detects tool poisoning, indirect attack vectors, and configuration vulnerabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/highflame-ai/ramparts?style=social)
 
 ## Articles
 
