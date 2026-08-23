@@ -118,7 +118,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
-- [HOL Guard](https://github.com/hashgraph-online/hol-guard): local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted ([security docs](https://hol.org/guard/security)). ![GitHub Repo stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=social)
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard): Local-first runtime control for AI coding agents (shell, secret-file reads, MCP server change, plugin/skill install). Not a complete prompt-injection preventer. Apache-2.0. [docs](https://hol.org/guard) ![GitHub Repo stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=social)
 
 ## Articles
 
