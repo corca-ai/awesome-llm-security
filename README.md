@@ -156,6 +156,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - Blog: [Kai's Blog](https://kai-greshake.de/)
 - Newsletter: [AI safety takes](https://newsletter.danielpaleka.com/)
 - Newsletter & Blog: [Hackstery](https://hackstery.com)
+- Evaluation protocol: [The Recorded Run Protocol](https://mountaintheory.ai/recorded-run-protocol/) - A four-part test for evaluating AI agent security controls: a published action set, a control condition, per-action outcomes including the misses, and a recording.
 
 <a href="https://star-history.com/#corca-ai/awesome-llm-security&Date">
   <picture>
