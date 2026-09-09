@@ -135,6 +135,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [How Anyone can Hack ChatGPT - GPT4o](https://medium.com/@deltaaruna/how-anyone-can-hack-chatgpt-aa7959684ef0)
 - [LLM Evaluation metrics, frmaework, and checklist](https://repello.ai/blog/llm-evaluation-metrics-frameworks-and-checklist)
 - [How RAG Poisoning Made Llama3 Racist!](https://repello.ai/blog/how-rag-poisoning-made-llama3-racist-1c5e390dd564)
+- [Securing a RAG Pipeline: Where Retrieval Actually Leaks](https://traztech.ca/blog/securing-rag-pipelines) - Practical guide to RAG pipeline security vulnerabilities and mitigations.
+- [Shipping an LLM Feature: What Actually Breaks](https://traztech.ca/blog/shipping-llm-features-security-risks) - Security risks when shipping LLM-powered features in production applications.
 
 ## Other Awesome Projects
 
