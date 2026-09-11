@@ -113,6 +113,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer): a fuzzing framework for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?style=social)
 - [LLM Guard](https://github.com/laiyer-ai/llm-guard): a security toolkit for LLM Interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 - [Vigil](https://github.com/deadbits/vigil-llm): a LLM prompt injection detection toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social)
+- [Vobo](https://github.com/getbeton/vobo): Human review for AI output with a hashed evidence chain ![GitHub Repo stars](https://img.shields.io/github/stars/getbeton/vobo?style=social)
 - [jailbreak-evaluation](https://github.com/controllability/jailbreak-evaluation): an easy-to-use Python package for language model jailbreak evaluation ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social)
 - [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz): the open-source tool to help you harden your GenAI applications ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social)
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
