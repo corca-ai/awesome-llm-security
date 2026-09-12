@@ -105,6 +105,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Tools
 
+- [Tenuo](https://github.com/tenuo-ai/tenuo): Per-call authorization for agent tools and MCP servers. Each call is checked at the argument level, and authority is traced across delegation chains. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 - [UTCP](https://github.com/universal-tool-calling-protocol/): Secure, direct tool-calling to any native endpoint for your AI agent
 - [Plexiglass](https://github.com/kortex-labs/plexiglass): a security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama): set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
