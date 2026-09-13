@@ -105,6 +105,12 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Tools
 
+- [agent-canary](https://github.com/DorianChn/agent-canary): zero-false-positive canary tripwires for AI agents — inert decoy tools and leak-tracing tokens that detect prompt-injection compromise ![GitHub Repo stars](https://img.shields.io/github/stars/DorianChn/agent-canary?style=social)
+
+- [agent-gate](https://github.com/DorianChn/agent-gate): deny-by-default policy gateway for AI-agent tool calls with parameter-level authorization, short-lived credentials, MCP filtering, audit logs, and alerts ![GitHub Repo stars](https://img.shields.io/github/stars/DorianChn/agent-gate?style=social)
+- [traceplay](https://github.com/DorianChn/traceplay): local VCR-style recording, offline replay, and CI assertions for AI-agent trajectories, including forbidden-tool checks ![GitHub Repo stars](https://img.shields.io/github/stars/DorianChn/traceplay?style=social)
+- [RepoSieve](https://github.com/DorianChn/reposieve): local-first repository context packing with generated-file filtering, secret-like value redaction, and token-budget controls ![GitHub Repo stars](https://img.shields.io/github/stars/DorianChn/reposieve?style=social)
+
 - [UTCP](https://github.com/universal-tool-calling-protocol/): Secure, direct tool-calling to any native endpoint for your AI agent
 - [Plexiglass](https://github.com/kortex-labs/plexiglass): a security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama): set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
