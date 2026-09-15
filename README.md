@@ -102,6 +102,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [[paper]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [[repo]](https://github.com/ethz-spylab/agentdojo) [[site]](https://agentdojo.spylab.ai/)
 - "Formalizing and Benchmarking Prompt Injection Attacks and Defenses", 2024-08, USENIX Security 24, [[paper]](https://www.themoonlight.io/paper/share/cd17769a-b23f-4be0-8078-938f9d4fd827), [[repo]](https://github.com/liu00222/Open-Prompt-Injection)
 - "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [[paper]](https://www.themoonlight.io/paper/share/7ab99274-2085-4b67-8941-c5a9f8310ebb)
+- [hermes-jailbench](https://github.com/hermes-labs-ai/hermes-jailbench): zero-LLM deterministic jailbreak regression benchmark that runs a repeatable battery of known-pattern attacks against an LLM endpoint and scores refusal/partial/compliance across runs, to catch when a model or prompt update silently got weaker. `pip install hermes-jailbench` ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/hermes-jailbench?style=social)
 
 ## Tools
 
@@ -118,6 +119,9 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [little-canary](https://github.com/hermes-labs-ai/little-canary): detects prompt injection by its effect on a sacrificial canary model instead of pattern matching — untrusted input hits a powerless model first, a behavioral check reads the residue, and it returns block/flag/pass before the primary model acts. ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/little-canary?style=social)
+- [agent-gorgon](https://github.com/hermes-labs-ai/agent-gorgon): runtime policy guard for AI agent processes that watches process, file, and network activity from user space and applies deterministic policy, attempting SIGSTOP or SIGKILL on reviewed triggers; audit-only mode rehearses policy first. ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/agent-gorgon?style=social)
+- [hermes-labs-cvss-consistency](https://github.com/hermes-labs-ai/hermes-labs-cvss-consistency): offline, read-only CLI that checks whether CVSS 3.0/3.1 base scores stored in local CVE 5.x JSON records agree with their vectors, so a stated/computed score mismatch is caught deterministically instead of trusted as-is. ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/hermes-labs-cvss-consistency?style=social)
 
 ## Articles
 
