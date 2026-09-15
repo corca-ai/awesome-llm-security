@@ -121,6 +121,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [little-canary](https://github.com/hermes-labs-ai/little-canary): detects prompt injection by its effect on a sacrificial canary model instead of pattern matching — untrusted input hits a powerless model first, a behavioral check reads the residue, and it returns block/flag/pass before the primary model acts. ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/little-canary?style=social)
 - [agent-gorgon](https://github.com/hermes-labs-ai/agent-gorgon): runtime policy guard for AI agent processes that watches process, file, and network activity from user space and applies deterministic policy, attempting SIGSTOP or SIGKILL on reviewed triggers; audit-only mode rehearses policy first. ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/agent-gorgon?style=social)
+- [hermes-labs-cvss-consistency](https://github.com/hermes-labs-ai/hermes-labs-cvss-consistency): offline, read-only CLI that checks whether CVSS 3.0/3.1 base scores stored in local CVE 5.x JSON records agree with their vectors, so a stated/computed score mismatch is caught deterministically instead of trusted as-is. ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/hermes-labs-cvss-consistency?style=social)
 
 ## Articles
 
