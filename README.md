@@ -135,6 +135,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [How Anyone can Hack ChatGPT - GPT4o](https://medium.com/@deltaaruna/how-anyone-can-hack-chatgpt-aa7959684ef0)
 - [LLM Evaluation metrics, frmaework, and checklist](https://repello.ai/blog/llm-evaluation-metrics-frameworks-and-checklist)
 - [How RAG Poisoning Made Llama3 Racist!](https://repello.ai/blog/how-rag-poisoning-made-llama3-racist-1c5e390dd564)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Other Awesome Projects
 
