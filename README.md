@@ -87,6 +87,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition", 2024-05, ICML 24, [[paper]](https://www.themoonlight.io/paper/share/bb878c6e-411f-4af5-8883-5c5330007488) [[repo]](https://github.com/Ed-Zh/PARDEN)
 - “Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs”, 2024-06, [[paper]](https://www.themoonlight.io/paper/share/d7a0cdb8-dd4d-47f7-83e7-ece62e0f42a0)
 - "Improving Alignment and Robustness with Circuit Breakers", 2024-06, NeurIPS 24, [[paper]](https://www.themoonlight.io/paper/share/3d4b1d35-3e81-4a66-b48a-775896ce708a), [[repo]](https://github.com/GraySwanAI/circuit-breakers)
+- "Exploring and Developing a Pre-Model Safeguard with Draft Models", 2026-05, CAIS 26, [[paper]](https://dl.acm.org/doi/10.1145/3786335.3813133) [[repo]](https://github.com/purseclab/jailbreak-defense)
 
 ### Platform Security
 - "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins", 2023-09, [[paper]](https://www.themoonlight.io/paper/share/fdb16919-a931-4690-bbf0-602d6feb56e5) [[repo]](https://github.com/llm-platform-security/chatgpt-plugin-eval)
