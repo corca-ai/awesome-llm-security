@@ -164,3 +164,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=corca-ai/awesome-llm-security&type=Date" />
   </picture>
 </a>
+
+- [Claude Code Token Compromise & Hook Hijacking (CVE-2026-21852)](https://github.com/abhishek2512mishra/claude-code-security-audit) - Clean-room PoC and security audit of base-URL redirection across AI developer tools. [Full Technical Advisory](https://eyestech.in/claude-code-token-compromise-hook-security-audit/).
+
+- [benchmaxxing-detector](https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector) - Forensic auditor detecting RLVR harness gaming, git reflog leaks, and conftest.py hijacking in coding agent evaluation environments. [Empirical Audit](https://eyestech.in/is-deepswe-v1-1-cracked-benchmark-audit/).
