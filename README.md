@@ -118,6 +118,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [AgentVault](https://github.com/aashish254/agentvault): runtime permission firewall for AI agents — declarative YAML policy, macOS Seatbelt kernel sandbox, one-tap approvals, tamper-evident signed audit log; ships a reproducible 103-attack red-team corpus (103/103 blocked) ![GitHub Repo stars](https://img.shields.io/github/stars/aashish254/agentvault?style=social)
 
 ## Articles
 
