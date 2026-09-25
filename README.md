@@ -136,6 +136,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Evaluation metrics, frmaework, and checklist](https://repello.ai/blog/llm-evaluation-metrics-frameworks-and-checklist)
 - [How RAG Poisoning Made Llama3 Racist!](https://repello.ai/blog/how-rag-poisoning-made-llama3-racist-1c5e390dd564)
 
+- [Public MCP Dependency Drift Census: a reproducible GitHub code-search sample](https://site-creator-vinext-starter.surfaceproof.workers.dev/research/mcp-dependency-drift) — Static public-data study of mutable npm/npx references in `.mcp.json`, with sanitized dataset, reproduction script, and explicit non-prevalence limitations.
+
 ## Other Awesome Projects
 
 - (0din GenAI Bug Bounty from Mozilla)(https://0din.ai): The 0Day Investigative Network is a bug bounty program focusing on flaws within GenAI models. Vulnerability classes include Prompt Injection, Training Data Poisoning, DoS, and more.
