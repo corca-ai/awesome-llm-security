@@ -89,6 +89,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Improving Alignment and Robustness with Circuit Breakers", 2024-06, NeurIPS 24, [[paper]](https://www.themoonlight.io/paper/share/3d4b1d35-3e81-4a66-b48a-775896ce708a), [[repo]](https://github.com/GraySwanAI/circuit-breakers)
 
 ### Platform Security
+- "DAI: A Domain-Specific LLM with Model-Excluded Authority, Capability-Disjoint Verification, and Recomputable Receipts", 2026-10, Zenodo preprint, `defense`, `platform security`, [[paper]](https://doi.org/10.5281/zenodo.23089652) [[publication materials]](https://github.com/hiagokinlevi/DAI-Decripte-Artificial-Intelligence-LLM)
+- "Autonomous Defensive AI: An Envelope-and-Evidence Framework for Governed LLMs Acting on Production Infrastructure", 2026-10, Zenodo preprint, `defense`, `platform security`, [[paper]](https://doi.org/10.5281/zenodo.23089594) [[publication materials]](https://github.com/hiagokinlevi/ADAI-Autonomous-Defensive-Artificial-Intelligence)
 - "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins", 2023-09, [[paper]](https://www.themoonlight.io/paper/share/fdb16919-a931-4690-bbf0-602d6feb56e5) [[repo]](https://github.com/llm-platform-security/chatgpt-plugin-eval)
 
 ### Survey
