@@ -120,6 +120,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
 ## Articles
+- [Prompt Injection in AI Agents: Direct, Indirect, and Tool Attacks](https://thehackerroom.com/blog/prompt-injection-explained/)
 
 - [Hacking Auto-GPT and escaping its docker container](https://positive.security/blog/auto-gpt-rce)
 - [Prompt Injection Cheat Sheet: How To Manipulate AI Language Models](https://blog.seclify.com/prompt-injection-cheat-sheet/)
