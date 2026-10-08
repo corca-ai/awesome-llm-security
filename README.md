@@ -117,7 +117,11 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz): the open-source tool to help you harden your GenAI applications ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social)
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
-- [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows.
+- [callgate](https://github.com/richardsondx/callgate): Pre-execution policy gate for AI agents: allow, deny, or require human approval on every tool call ![GitHub Repo stars](https://img.shields.io/github/stars/richardsondx/callgate?style=social)
+- [approvalflow](https://github.com/richardsondx/approvalflow): Human approval queue for AI agents: approver identity, TTL, delegation, signed decisions, audit trail ![GitHub Repo stars](https://img.shields.io/github/stars/richardsondx/approvalflow?style=social)
+- [ground-rules](https://github.com/richardsondx/ground-rules): Compile natural-language intent into enforced, validated agent policy ![GitHub Repo stars](https://img.shields.io/github/stars/richardsondx/ground-rules?style=social)
+- [agent-spendcap](https://github.com/richardsondx/agent-spendcap): Budgets and semantic rate limits for AI agents: cap cost, tool calls, and external writes ![GitHub Repo stars](https://img.shields.io/github/stars/richardsondx/agent-spendcap?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
 ## Articles
 
