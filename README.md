@@ -119,6 +119,9 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
+- [revoco](https://github.com/rsh1k/revoco): undo for AI agent actions — the rollback is planned before the action runs, proven by recovery drills, and a compromised grant's whole blast radius rolls back in one call; ships a containment benchmark (83.3% containment, 100% precision, 0 false positives) ![GitHub Repo stars](https://img.shields.io/github/stars/rsh1k/revoco?style=social)
+- [veritrail](https://github.com/rsh1k/veritrail): tamper-evident provenance and forensics for AI agents — Ed25519 attenuating delegation chains that prove who authorized any action, back to the human who started it ![GitHub Repo stars](https://img.shields.io/github/stars/rsh1k/veritrail?style=social)
+
 ## Articles
 
 - [Hacking Auto-GPT and escaping its docker container](https://positive.security/blog/auto-gpt-rce)
