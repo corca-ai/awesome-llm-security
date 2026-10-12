@@ -120,6 +120,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
 - [Secure Agent](https://github.com/cavi-ai/secure-agent): Egress inspection & secret-leak firewall for local AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/cavi-ai/secure-agent?style=social)
+
 ## Articles
 
 - [Hacking Auto-GPT and escaping its docker container](https://positive.security/blog/auto-gpt-rce)
