@@ -156,6 +156,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - Blog: [Kai's Blog](https://kai-greshake.de/)
 - Newsletter: [AI safety takes](https://newsletter.danielpaleka.com/)
 - Newsletter & Blog: [Hackstery](https://hackstery.com)
+- Weekly scan: [StackGrade Safety watch](https://stackgrade.app/warnings/) - automated weekly OSV, install-hook and agent-instruction scan of 52 open-source AI agent tools
 
 <a href="https://star-history.com/#corca-ai/awesome-llm-security&Date">
   <picture>
