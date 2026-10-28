@@ -156,6 +156,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - Blog: [Kai's Blog](https://kai-greshake.de/)
 - Newsletter: [AI safety takes](https://newsletter.danielpaleka.com/)
 - Newsletter & Blog: [Hackstery](https://hackstery.com)
+- Course (French): [Sécurité des agents IA — Cours ouvert](https://doi.org/10.5281/zenodo.23732189), CC BY 4.0, 10 modules / 133 slides on AI agent security (prompt injection, OWASP LLM & Agentic Top 10, information-flow defenses, red teaming); sources on [GitHub](https://github.com/yulliwasameur/securite-agents-ia-cours)
 
 <a href="https://star-history.com/#corca-ai/awesome-llm-security&Date">
   <picture>
