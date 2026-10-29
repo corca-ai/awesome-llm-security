@@ -102,6 +102,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [[paper]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [[repo]](https://github.com/ethz-spylab/agentdojo) [[site]](https://agentdojo.spylab.ai/)
 - "Formalizing and Benchmarking Prompt Injection Attacks and Defenses", 2024-08, USENIX Security 24, [[paper]](https://www.themoonlight.io/paper/share/cd17769a-b23f-4be0-8078-938f9d4fd827), [[repo]](https://github.com/liu00222/Open-Prompt-Injection)
 - "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [[paper]](https://www.themoonlight.io/paper/share/7ab99274-2085-4b67-8941-c5a9f8310ebb)
+- [TaintWall Bench](https://huggingface.co/datasets/NagaYu/taintwall-bench) - Prompt-injection benchmark for tool-using agents: I1–I8 attack taxonomy (200 dev cases) plus a 16-case task-embedded procedure (runbook) family, with ASR + utility scoring and calibration probes. Dev split public; holdout sealed.
 
 ## Tools
 
@@ -118,6 +119,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [TaintWall](https://github.com/NagaYu/taintwall) - Runtime firewall for AI agents: per-argument provenance tracking and deterministic policies (P1–P6) at the tool-call boundary, so instructions embedded in documents cannot execute consequential actions. Measured on a local LLM: task-embedded (runbook) attack success 0.875 → 0.000.
 
 ## Articles
 
