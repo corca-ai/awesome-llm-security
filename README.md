@@ -147,6 +147,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): the world's top security competition
 - [PromptBounty.io](https://sites.google.com/view/promptbounty/)
 - [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms)
+- [ATX-1 Threat Matrix](https://github.com/aegis-initiative/aegis-governance): an ATT&CK-style taxonomy of agentic AI threats (10 tactics, 69 techniques), with a STIX 2.1 bundle and ATT&CK Navigator layer
 
 ## Other Useful Resources
 
