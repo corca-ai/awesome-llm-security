@@ -119,6 +119,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
+- [AI-Red-Lab](https://github.com/ranas-mukminov/AI-Red-Lab): local LLM red-teaming lab with a test-case catalogue, evaluation harness, and guardrail checks. Local models only, v0.1.0.
+
 ## Articles
 
 - [Hacking Auto-GPT and escaping its docker container](https://positive.security/blog/auto-gpt-rce)
