@@ -135,6 +135,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [How Anyone can Hack ChatGPT - GPT4o](https://medium.com/@deltaaruna/how-anyone-can-hack-chatgpt-aa7959684ef0)
 - [LLM Evaluation metrics, frmaework, and checklist](https://repello.ai/blog/llm-evaluation-metrics-frameworks-and-checklist)
 - [How RAG Poisoning Made Llama3 Racist!](https://repello.ai/blog/how-rag-poisoning-made-llama3-racist-1c5e390dd564)
+- [The Architecture of Failure: A Disclosure, with Logs — five verbatim sessions in which a consumer model's refusal erodes over a long conversation and, with a mail client attached, it twice moves to send what it was driven to write](https://jonprice0.github.io/architecture-of-failure/)
 
 ## Other Awesome Projects
 
