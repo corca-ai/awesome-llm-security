@@ -118,9 +118,12 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [prompt-injection-harness](https://github.com/nitikasec/prompt-injection-harness): adversarial LLM probes (prompt injection, jailbreak, data-exfiltration, tool-abuse) that emit an OWASP LLM Top 10 + MITRE ATLAS findings report; runs fully offline. ![GitHub Repo stars](https://img.shields.io/github/stars/nitikasec/prompt-injection-harness?style=social)
+- [Agent Heist](https://github.com/nitikasec/agent-heist): hands-on lab to attack and defend AI agents / MCP servers; each level pairs a real attack class with a tested, hardened fix, mapped to the OWASP LLM Top 10. ![GitHub Repo stars](https://img.shields.io/github/stars/nitikasec/agent-heist?style=social)
 
 ## Articles
 
+- [A Field Guide to MCP Agent Attacks (With a Lab You Can Run)](https://www.linkedin.com/pulse/field-guide-mcp-agent-attacks-lab-you-can-run-nitika-kumari-gc7bc/)
 - [Hacking Auto-GPT and escaping its docker container](https://positive.security/blog/auto-gpt-rce)
 - [Prompt Injection Cheat Sheet: How To Manipulate AI Language Models](https://blog.seclify.com/prompt-injection-cheat-sheet/)
 - [Indirect Prompt Injection Threats](https://greshake.github.io/)
