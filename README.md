@@ -147,6 +147,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): the world's top security competition
 - [PromptBounty.io](https://sites.google.com/view/promptbounty/)
 - [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms)
+- [Agent Security Index](https://agentsecurityindex.com/): vendor-neutral directory of 102 AI agent security tools, from guardrails and MCP gateways to red teaming and audit, with a free weekly briefing
 
 ## Other Useful Resources
 
