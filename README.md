@@ -102,9 +102,11 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [[paper]](https://www.themoonlight.io/paper/share/5a567ace-0218-4c76-9018-6f99a93df7cd) [[repo]](https://github.com/ethz-spylab/agentdojo) [[site]](https://agentdojo.spylab.ai/)
 - "Formalizing and Benchmarking Prompt Injection Attacks and Defenses", 2024-08, USENIX Security 24, [[paper]](https://www.themoonlight.io/paper/share/cd17769a-b23f-4be0-8078-938f9d4fd827), [[repo]](https://github.com/liu00222/Open-Prompt-Injection)
 - "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [[paper]](https://www.themoonlight.io/paper/share/7ab99274-2085-4b67-8941-c5a9f8310ebb)
+- "ShellRisk-Bench: A Benchmark for Context-Free Shell-Command Risk Classification", 2026-08, [[repo]](https://github.com/kontext-security/shellrisk-bench) [[site]](https://kontext.security/blog/kestrel)
 
 ## Tools
 
+- [Kontext](https://kontext.security): runtime security for AI agents, combining agent discovery, local risk detection, and policy checks before supported tool calls execute. [[repo]](https://github.com/kontext-security/kontext)
 - [UTCP](https://github.com/universal-tool-calling-protocol/): Secure, direct tool-calling to any native endpoint for your AI agent
 - [Plexiglass](https://github.com/kortex-labs/plexiglass): a security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama): set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
