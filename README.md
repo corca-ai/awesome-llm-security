@@ -142,6 +142,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Gandalf](https://gandalf.lakera.ai/): a prompt injection wargame
 - [LangChain vulnerable to code injection - CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
 - [LLM Security startups](https://github.com/rushout09/llm-security-startups)
+- [AI Security Startups Map](https://startups.prompt.security): the whole AI security market on one interactive map. 477 companies securing LLMs and AI agents, from prompt-injection guardrails and MCP gateways to AI red teaming and agent identity. See who raised what from whom, who got acquired by whom, and which vendors cover each control. Ask the built-in AI chat, or pull the open data (JSON, CSV, MCP server) into your own tools
 - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial)
 - [Epivolis](https://epivolis.com/): a prompt injection aware chatbot designed to mitigate adversarial efforts
 - [LLM Security Problems at DEFCON31 Quals](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): the world's top security competition
