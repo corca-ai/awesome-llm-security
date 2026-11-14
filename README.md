@@ -104,7 +104,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [[paper]](https://www.themoonlight.io/paper/share/7ab99274-2085-4b67-8941-c5a9f8310ebb)
 
 ## Tools
-
+- [AegisKernel](https://github.com/adikshatriyag-crypto/aegis-kernel): deterministic runtime intercepting rogue tool execution, path traversal, and subshell escapes in <0.016ms ![GitHub Repo stars](https://img.shields.io/github/stars/adikshatriyag-crypto/aegis-kernel?style=social)
 - [UTCP](https://github.com/universal-tool-calling-protocol/): Secure, direct tool-calling to any native endpoint for your AI agent
 - [Plexiglass](https://github.com/kortex-labs/plexiglass): a security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama): set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
