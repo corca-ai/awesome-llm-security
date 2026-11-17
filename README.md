@@ -156,6 +156,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - Blog: [Kai's Blog](https://kai-greshake.de/)
 - Newsletter: [AI safety takes](https://newsletter.danielpaleka.com/)
 - Newsletter & Blog: [Hackstery](https://hackstery.com)
+- Dataset: [Trust-centre coverage across 101 AI vendors](https://github.com/contentforge-press/exhibitrail-assessments/tree/main/data) — eight topics counted on 101 published AI trust centres, with the survey script, the CSV and the limits of the count. The two agent-specific topics are close to absent: prompt injection 5%, agent tool authority 7%.
 
 <a href="https://star-history.com/#corca-ai/awesome-llm-security&Date">
   <picture>
