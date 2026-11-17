@@ -131,7 +131,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Jailbreaking GPT-4's code interpreter](https://www.lesswrong.com/posts/KSroBnxCHodGmPPJ8/jailbreaking-gpt-4-s-code-interpreter)
 - [Securing LLM Systems Against Prompt Injection](https://developer.nvidia.com/blog/securing-llm-systems-against-prompt-injection/)
 - [The AI Attack Surface Map v1.0](https://danielmiessler.com/p/the-ai-attack-surface-map-v1-0/)
-- [Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
+- [Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adversarial-attacks-on-llms/)
 - [How Anyone can Hack ChatGPT - GPT4o](https://medium.com/@deltaaruna/how-anyone-can-hack-chatgpt-aa7959684ef0)
 - [LLM Evaluation metrics, frmaework, and checklist](https://repello.ai/blog/llm-evaluation-metrics-frameworks-and-checklist)
 - [How RAG Poisoning Made Llama3 Racist!](https://repello.ai/blog/how-rag-poisoning-made-llama3-racist-1c5e390dd564)
@@ -156,6 +156,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - Blog: [Kai's Blog](https://kai-greshake.de/)
 - Newsletter: [AI safety takes](https://newsletter.danielpaleka.com/)
 - Newsletter & Blog: [Hackstery](https://hackstery.com)
+- Dataset: [Trust-centre coverage across 101 AI vendors](https://github.com/contentforge-press/exhibitrail-assessments/tree/main/data) — eight topics counted on 101 published AI trust centres, with the survey script, the CSV and the limits of the count. The two agent-specific topics are close to absent: prompt injection 5%, agent tool authority 7%.
 
 <a href="https://star-history.com/#corca-ai/awesome-llm-security&Date">
   <picture>
