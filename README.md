@@ -135,6 +135,10 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [How Anyone can Hack ChatGPT - GPT4o](https://medium.com/@deltaaruna/how-anyone-can-hack-chatgpt-aa7959684ef0)
 - [LLM Evaluation metrics, frmaework, and checklist](https://repello.ai/blog/llm-evaluation-metrics-frameworks-and-checklist)
 - [How RAG Poisoning Made Llama3 Racist!](https://repello.ai/blog/how-rag-poisoning-made-llama3-racist-1c5e390dd564)
+- [The Replit Database Deletion: An Agentic Security Analysis](https://saiprasad-cybsec.com/the-replit-database-deletion-an-agentic-security-analysis/)
+- [The PocketOS Database Deletion: An Agentic Security Analysis](https://saiprasad-cybsec.com/the-pocketos-database-deletion-an-agentic-security-analysis/)
+- [The Claude Code 'Don't Ask Again' Leak: An Agentic Security Analysis](https://saiprasad-cybsec.com/the-claude-code-dont-ask-again-leak-an-agentic-security-analysis/)
+- [What Is an Agent Harness? (And Why It's Where Agent Security Actually Lives)](https://saiprasad-cybsec.com/what-is-an-agent-harness/)
 
 ## Other Awesome Projects
 
