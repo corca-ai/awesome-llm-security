@@ -106,6 +106,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 ## Tools
 
 - [UTCP](https://github.com/universal-tool-calling-protocol/): Secure, direct tool-calling to any native endpoint for your AI agent
+- [mcp-audit](https://github.com/PRAVIN-952006/mcp-audit): Zero-dependency security scanner, live stdio & Streamable-HTTP/SSE prober, auto-hardener, and cryptographic SHA-256 rug-pull detector for MCP server configs and tool schemas (20 rules + SARIF 2.1.0).
 - [Plexiglass](https://github.com/kortex-labs/plexiglass): a security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama): set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
 - [Rebuff](https://github.com/protectai/rebuff): a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
