@@ -119,6 +119,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
+- [llm-exfil-guard](https://github.com/Qin-Z-x/llm-exfil-guard): detects and sanitizes data exfiltration through rendered LLM output - Markdown/HTML image beacons, hidden content and remote loads - as a standard-library-only Python CLI with a reproducible headless-browser demo. ![GitHub Repo stars](https://img.shields.io/github/stars/Qin-Z-x/llm-exfil-guard?style=social)
+
 ## Articles
 
 - [Hacking Auto-GPT and escaping its docker container](https://positive.security/blog/auto-gpt-rce)
