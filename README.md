@@ -89,6 +89,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Improving Alignment and Robustness with Circuit Breakers", 2024-06, NeurIPS 24, [[paper]](https://www.themoonlight.io/paper/share/3d4b1d35-3e81-4a66-b48a-775896ce708a), [[repo]](https://github.com/GraySwanAI/circuit-breakers)
 
 ### Platform Security
+- [Insomnia Security MCP (CQR Cybersecurity LLC)](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 - "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins", 2023-09, [[paper]](https://www.themoonlight.io/paper/share/fdb16919-a931-4690-bbf0-602d6feb56e5) [[repo]](https://github.com/llm-platform-security/chatgpt-plugin-eval)
 
 ### Survey
